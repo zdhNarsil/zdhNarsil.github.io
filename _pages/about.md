@@ -13,10 +13,10 @@ I am a junior undergradutate in School of EECE at Peking University, majoring Co
 
 **Research topics**
 * Computer vision and deep learning, especially on visual recognitions.
-* Efficient learning and inference. Speed up the training of NNs.  NAS.
+* Efficient learning and inference. Speed up the training of NNs.  AutoML, NAS.
 
 
 # Notes
 ----
-* [Overview of CNNs architecture designs. - April, 2018](https://a1600012888.github.io/Recent-advances-in-CNNs.pdf)
+* [A review on CNNs architecture designs. - April, 2018](https://a1600012888.github.io/Recent-advances-in-CNNs.pdf)
 * [A short survey on Image Inpainting. - June, 2018](https://a1600012888.github.io/Survey on inpainting.pdf)
