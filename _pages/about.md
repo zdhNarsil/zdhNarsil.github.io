@@ -11,8 +11,13 @@ redirect_from:
 I am a junior undergradutate in School of EECE at Peking University, majoring Computer Science advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). I have been a research intern at [Megvii Inc.(Face++)](https://megvii.com)    mentored by [Dr. Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN) since March, 2018.  
 
 
-## Research topics
 **Research topics**
+* Computer vision and deep learning, especially on visual recognitions.
+* Efficient learning and inference. Speed up the training of NNs.  NAS.
+
+
+# Notes
+* [Overview of CNNs model designs.(4.2018)](https://a1600012888.github.io/Recent-advances-in-CNNs.pdf)
 
 A data-driven personal website
 ======
