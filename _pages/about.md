@@ -20,6 +20,9 @@ I am a junior undergradutate in School of EECS at Peking University, majoring in
 * **[April, 2019]** One paper accepted by [ICML19](https://icml.cc). Codes and pdf comming soon.
 * **[April. 2019]** We published a new general detection dataset [Objects365](http://www.objects365.org/overview.html), which is designed to spur object detection research with a focus on diverse objects in the Wild.
 
+# Publications
+* [You Only Propagate Once: Painless Adversarial Training Using Maximal Principle](https://arxiv.org/abs/1905.00877) 
+  Dinghuai Zhang*, Tianyuan Zhang*,[Yiping Lu](https://web.stanford.edu/~yplu/)*, [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/home), [Bin Dong](http://bicmr.pku.edu.cn/~dongbin). (*equal contribution) [[code](https://github.com/a1600012888/YOPO-You-Only-Propagate-Once)]
 
 
 # Notes
