@@ -31,9 +31,3 @@ Dinghuai Zhang\*, **Tianyuan Zhang**\*,[Yiping Lu](https://web.stanford.edu/~ypl
 International Conference on Machine Learning (ICML), 2019.
 
 
-
-
-# Notes
-----
-* [A review on CNNs architecture designs. - April, 2018](https://a1600012888.github.io/Recent-advances-in-CNNs.pdf)
-* [A short survey on Image Inpainting. - June, 2018](https://a1600012888.github.io/Survey on inpainting.pdf)
