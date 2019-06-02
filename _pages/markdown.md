@@ -17,7 +17,7 @@ I often write some unofficall manulscripts and slides to help collect my thought
 
 
 ### Slides
-* Dynamic networks:[pdf(2019.5)](https://a1600012888.github.io/Recent-advances-in-CNNs.pdf/files/Dynamic network.pdf)
+* Dynamic networks:[pdf(2019.5)](https://a1600012888.github.io/files/Dynamic network.pdf)
 
 
 # Talk Slides
