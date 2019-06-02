@@ -13,7 +13,7 @@ I often write some unofficall manulscripts and slides to help collect my thought
 ----
 ### Manulscripts
 * A review on CNNs architecture designs:[pdf(2018.4)](https://a1600012888.github.io/Recent-advances-in-CNNs.pdf)
-* A short survey on Image Inpainting:[pdf(2019.6)](https://a1600012888.github.io/Survey on inpainting.pdf)
+* A short survey on Image Inpainting:[pdf(2018.6)](https://a1600012888.github.io/Survey on inpainting.pdf)
 
 
 ### Slides
