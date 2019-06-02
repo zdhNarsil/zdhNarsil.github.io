@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior undergradutate in School of EECS at Peking University, majoring in Computer Science advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). I have been a research intern at [Megvii Inc.(Face++)](https://megvii.com)    mentored by [Dr. Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN) since March, 2018.  I am honored to have the chance of visiting [Prof. Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/)'s lab this summer at University of California, Berkeley.
+I am a third-year undergradutate in School of EECS at Peking University, majoring in Computer Science advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). I have been a research intern at [Megvii Inc.(Face++)](https://megvii.com)    mentored by [Dr. Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN) since March, 2018.  I am honored to have the chance of visiting [Prof. Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/)'s lab this summer at University of California, Berkeley.
 
 
 **Research topics**
