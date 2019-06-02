@@ -7,9 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-# Talk Slides
-----
-Comming soon
+I often write some unofficall manulscripts and slides to help collect my thoughts. 
 
 # Notes
 ----
