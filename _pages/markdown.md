@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-I often write some unofficall manulscripts and slides to help collect my thoughts. 
+I often write some unofficial manuscripts and slides to help collect my thoughts. 
 
 # Notes
 ----
