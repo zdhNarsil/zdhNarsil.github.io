@@ -9,6 +9,13 @@ redirect_from:
 
 I often write some unofficial manuscripts and slides to help collect my thoughts. 
 
+
+
+# Talk Slides
+----
+* Interpreting Adversarial Trained Convolutional Neural Networks:[pdf(icml short oral-2019.06)](https://a1600012888.github.io/files/at-cnn-slides.pdf).
+
+
 # Notes
 ----
 ### Manulscripts
@@ -20,5 +27,3 @@ I often write some unofficial manuscripts and slides to help collect my thoughts
 * Dynamic networks:[pdf(2019.5)](https://a1600012888.github.io/files/Dynamic network.pdf)
 
 
-# Talk Slides
-Comming Sooooon!
