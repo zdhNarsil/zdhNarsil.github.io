@@ -18,6 +18,7 @@ I am a third-year undergradutate in School of EECS at Peking University, majorin
 
 # News
 ----
+**[July, 2019]**  One paper accepted by **ICCV19**. Comming soon.
 **[April, 2019]** One paper accepted by **ICML19**. Codes and pdf comming soon.
 
 **[April. 2019]** We published a new general detection dataset [Objects365](http://www.objects365.org/overview.html), which is designed to spur object detection research with a focus on diverse objects in the Wild.
