@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tianyuan Zhang"
   avatar           : "IMG_2226.jpeg"
-  bio              : "Undergraduate student in School of EECS at Peking University. 1600012888 [at] pku [dot] edu [dot] cn"
+  bio              : "Undergraduate student in School of EECS at Peking University. tianyuanzhang [at] pku [dot] edu [dot] cn"
   location         : "Beijing China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=uJocZjkAAAAJ&hl=en
-  email            : "1600012888@pku.edu.cn"
+  email            : "tianyuanzhang@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
