@@ -28,7 +28,7 @@ I am a third-year undergradutate in School of EECS at Peking University, majorin
 # Publications
 ----
 **[You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle](https://arxiv.org/abs/1905.00877)**. 
-Dinghuai Zhang\*, **Tianyuan Zhang**\*,[Yiping Lu](https://web.stanford.edu/~yplu/)\*, [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/home), [Bin Dong](http://bicmr.pku.edu.cn/~dongbin). (*equal contribution) [[code](https://github.com/a1600012888/YOPO-You-Only-Propagate-Once)]
+Dinghuai Zhang\*, **Tianyuan Zhang**\*,[Yiping Lu](https://web.stanford.edu/~yplu/)\*, [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/home), [Bin Dong](http://bicmr.pku.edu.cn/~dongbin). (*equal contribution) [[code](https://github.com/a1600012888/YOPO-You-Only-Propagate-Once)] 33rd Annual Conference on Neural Information Processing Systems (NeurIPS 2019)
 
 **[Interpreting Adversarially Trained Convolutional Neural Networks](https://arxiv.org/abs/1905.09797)**. **Tianyuan Zhang**, [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/home). [[code](https://github.com/PKUAI26/AT-CNN)]
 International Conference on Machine Learning (ICML), 2019.
