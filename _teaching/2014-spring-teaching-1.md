@@ -1,6 +1,6 @@
 ---
 title: "2019 Fall Deep learning Seminar"
-collection: teaching
+collection: Seminars
 type: "Undergraduate deep learning seminar"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Room 102, Jingyuan 5th Courtyard"
