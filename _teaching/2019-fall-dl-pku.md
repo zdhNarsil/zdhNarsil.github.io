@@ -4,7 +4,7 @@ collection: Seminars
 type: "Undergraduate deep learning seminar"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Room 102, Jingyuan 5th Courtyard, Peking University"
-date: 10 am every Sunday
+date: 10 a.m. every Sunday
 location: "City, Country"
 ---
 ### Seminar overview
