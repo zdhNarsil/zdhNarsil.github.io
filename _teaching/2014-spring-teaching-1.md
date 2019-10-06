@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "2019 Fall Deep learning Seminar"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate deep learning seminar"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Room 102, Jingyuan 5th Courtyard"
+date: 10 am every Sunday
 location: "City, Country"
 ---
 
