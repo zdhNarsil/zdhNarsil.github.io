@@ -8,13 +8,8 @@ date: 10 am every Sunday
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+| Date  |  Presenter | Slides  | Paper list  |
+|---|---|---|---|
+| 30/9 2019  | [Chence Shi](chenceshi.com), [Tianyuan Zhang](tianyuanzhang.com)  |   |   |
+| 6/10 2019  | Baifeng Shi, Ziqi Pang   |   |   |
+|   |   |   |   |
