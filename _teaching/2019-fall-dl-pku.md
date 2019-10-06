@@ -2,7 +2,7 @@
 title: "2019 Fall Deep learning Seminar"
 collection: Seminars
 type: "Undergraduate deep learning seminar"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /seminar/2019-fall-dl-pku
 venue: "Room 102, Jingyuan 5th Courtyard, Peking University"
 date: 10 a.m. every Sunday
 location: "City, Country"
