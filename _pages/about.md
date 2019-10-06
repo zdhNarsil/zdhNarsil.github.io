@@ -20,7 +20,8 @@ This winter, I will apply for Ph.D.
 
 # News
 ----
-**[July, 2019]**  One paper accepted by **ICCV19**. Pdf and codes comming soon.
+**[Spetember, 2019]** [YOPO](https://arxiv.org/abs/1905.00877) was accepted by **NeurIPS19**. 
+**[July, 2019]**  One paper accepted by **ICCV19**. PDF and codes comming soon.
 
 **[April, 2019]** One paper accepted by **ICML19**. 
 
