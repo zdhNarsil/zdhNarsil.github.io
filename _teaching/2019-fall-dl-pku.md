@@ -9,7 +9,7 @@ location: "City, Country"
 ---
 ### Seminar overview
 * Each time, we will have 1~3 presenters.
-* Each presenter should presting a bunch of paper of related topics.
+* Each presenter should presenting a bunch of paper of related topics.
 * All topics related with machine learning is encouraged.
 
 ---
