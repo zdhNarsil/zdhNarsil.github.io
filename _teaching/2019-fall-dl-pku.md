@@ -18,6 +18,8 @@ location: "City, Country"
 
 If you want to attend, just send me an email.
 
+---
+
 **Schedule**
 
 
