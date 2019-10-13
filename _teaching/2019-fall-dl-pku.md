@@ -4,7 +4,7 @@ collection: Seminars
 type: "Undergraduate deep learning seminar"
 permalink: /teaching/2019-fall-dl-pku
 venue: "Room 102, Jingyuan 5th Courtyard, Peking University"
-date: 10 a.m. every Sunday
+date: 9 a.m. every Sunday
 location: "City, Country"
 ---
 ### Seminar overview
@@ -13,6 +13,10 @@ location: "City, Country"
 * All topics related with machine learning is encouraged.
 
 ---
+
+**Homework**: Choose 3~5 your favorite paper, present them and explain why. 
+
+If you want to attend, just send me an email.
 
 **Schedule**
 
