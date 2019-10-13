@@ -9,12 +9,12 @@ location: "City, Country"
 ---
 ### Seminar overview
 * Each time, we will have 1~3 presenters.
-* Each presenter should presenting a bunch of paper of related topics.
-* All topics related with machine learning are wellcomed.
+* Each presenter should present a bunch of paper of related topics.
+* All topics related with machine learning are welcomed.
 
 ---
 
-**Homework**: Choose 3~5 your favorite paper, present them and explain why. 
+**Homework**: Choose 3~5 your favorite papers, present them and explain why. 
 
 If you want to attend, just send me an email.
 
