@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Beijing, China"
-title                    : "Dinghuai Zhang / Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dinghuai Zhang"
 description              : &description "personal description"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "Narsil Zhang"
   foursquare       :
   github           : "zdhNarsil"
   google_plus      :
@@ -109,9 +109,9 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "zdhnarsil" #"replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
