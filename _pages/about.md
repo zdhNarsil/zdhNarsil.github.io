@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a last-year undergradutate in School of EECS at Peking University, majoring in Computer Science advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). I have been a research intern at [Megvii Inc.(Face++)](https://megvii.com)    mentored by [Dr. Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=zh-CN) since March, 2018. Currently visiting Berkeley!
+I am a senior undergradutate in School of Mathematical Sciences at Peking University advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). I have also worked with [Prof. Qiang Liu](https://www.cs.utexas.edu/~lqiang/index.html).
 
 This winter, I will apply for Ph.D.
 
 **Research topics**
-* Computer vision and deep learning, especially visual recognitions, maniuplating images.
-* Efficient learning and inference. Speed up the training of NNs.  AutoML, NAS for light-weight NNs.
-* Dynamic networks.
+* Probablistic inference, bayesian methods and generative models.
+* Adversarial robustness & certification.
+* Optimization.
 
 
 # News
