@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "Beijing, China"
-title                    : "Tianyuan Zhang / Home"
+title                    : "Dinghuai Zhang / Home"
 title_separator          : "-"
-name                     : &name "Tianyuan Zhang"
+name                     : &name "Dinghuai Zhang"
 description              : &description "personal description"
-url                      : https://a1600012888.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zdhNarsil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "a1600012888/a1600012888.github.io"
+repository               : "zdhNarsil/zdhNarsil.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "zdhnarsil"
 facebook:
-  username               :
+  username               : "Narsil Zhang"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianyuan Zhang"
+  name             : "Dinghuai Zhang"
   avatar           : "IMG_2226.jpeg"
-  bio              : "Undergraduate student in School of EECS at Peking University. tianyuanzhang [at] pku [dot] edu [dot] cn"
+  bio              : "Undergraduate student in School of Mathematical Sciences at Peking University. zhangdinghuai [at] pku [dot] edu [dot] cn"
   location         : "Beijing China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : https://scholar.google.com/citations?user=uJocZjkAAAAJ&hl=en
-  email            : "tianyuanzhang@pku.edu.cn"
+  googlescholar    : https://scholar.google.com/citations?user=8W-MW9sAAAAJ&hl=zh-CN
+  email            : "zhangdinghuai@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "a1600012888"
+  github           : "zdhNarsil"
   google_plus      :
   keybase          :
   instagram        :
