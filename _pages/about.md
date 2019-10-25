@@ -37,7 +37,7 @@ This winter, I will apply for Ph.D.
 **[You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle](https://arxiv.org/abs/1905.00877)**. 
 **Dinghuai Zhang**\*, [Tianyuan Zhang](http://tianyuanzhang.com/)\*,[Yiping Lu](https://web.stanford.edu/~yplu/)\*, [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/home), [Bin Dong](http://bicmr.pku.edu.cn/~dongbin). (*equal contribution) [[code](https://github.com/a1600012888/YOPO-You-Only-Propagate-Once)] 33rd Annual Conference on Neural Information Processing Systems (NeurIPS 2019)
 
-**[Filling the Soap Bubbles: Efficient Black-Box Adversarial Certification with Non-Gaussian Smoothing](https://openreview.net/pdf?id=Skg8gJBFvr)**. **Dinghuai Zhang**\*, Mao Ye\*, Chengyue Gong\* , [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/home), [Qiang Liu](https://www.cs.utexas.edu/~lqiang/index.html). 
+**[Filling the Soap Bubbles: Efficient Black-Box Adversarial Certification with Non-Gaussian Smoothing](https://openreview.net/pdf?id=Skg8gJBFvr)**. **Dinghuai Zhang**\*, Mao Ye\*, [Chengyue Gong](https://sites.google.com/view/chengyue-gong)\* , [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/home), [Qiang Liu](https://www.cs.utexas.edu/~lqiang/index.html). 
 
 
 
