@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergradutate in School of Mathematical Sciences at Peking University advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). I have also worked with [Prof. Qiang Liu](https://www.cs.utexas.edu/~lqiang/index.html).
+I am a senior undergradutate in School of Mathematical Sciences at Peking University advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). I have also worked with [Prof. Qiang Liu](https://www.cs.utexas.edu/~lqiang/index.html) and [Prof. Bin Dong](http://bicmr.pku.edu.cn/~dongbin).
 
 This winter, I will apply for Ph.D.
 
