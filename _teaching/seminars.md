@@ -4,7 +4,7 @@ collection: Seminars
 type: aaa
 permalink: /teaching/seminars
 venue: bbb
-date: ccc
+# date: ccc
 location: ddd
 ---
 
