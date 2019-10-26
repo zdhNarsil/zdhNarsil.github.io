@@ -4,11 +4,7 @@ main:
 #    url: /publications/
 
 #  - title: "Talks"
-#    url: /talks/    
-
-  # - title: "Seminars"
-  #   # url: /teaching/
-  #   url: /pages/seminars/    
+#    url: /talks/       
     
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -20,4 +16,4 @@ main:
 #    url: /cv/
     
   - title: "Slides & Notes"
-    url: /pages/markdown/
+    url: /pages/slidenotes/

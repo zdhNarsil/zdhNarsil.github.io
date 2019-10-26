@@ -32,7 +32,6 @@ This winter, I will apply for Ph.D.
 -->
 
 ## Publications
----
 
 **[You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle](https://arxiv.org/abs/1905.00877)**. 
 **Dinghuai Zhang**\*, [Tianyuan Zhang](http://tianyuanzhang.com/)\*,[Yiping Lu](https://web.stanford.edu/~yplu/)\*, [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/home), [Bin Dong](http://bicmr.pku.edu.cn/~dongbin). [[code](https://github.com/a1600012888/YOPO-You-Only-Propagate-Once)] 33rd Annual Conference on Neural Information Processing Systems (NeurIPS 2019)
