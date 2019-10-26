@@ -21,6 +21,7 @@ I often write some unofficial manuscripts and slides to help collect my thoughts
 ## Notes
 ----
 * A note about stochastic analysis: [link](https://github.com/zdhNarsil/zdhNarsil.github.io/raw/master/files/Notes_of_Stochastic_Analysis.pdf)
+* A review on interpretating deep neural network :[link](https://a1600012888.github.io/Survey on inpainting.pdf)
 * A short survey on Image Inpainting:[pdf(2018.6)](https://a1600012888.github.io/Survey on inpainting.pdf)
 
 
