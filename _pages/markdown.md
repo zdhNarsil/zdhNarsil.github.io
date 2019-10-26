@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /pages/markdown/
 title: "Slides & Notes"
 author_profile: true
 redirect_from: 
