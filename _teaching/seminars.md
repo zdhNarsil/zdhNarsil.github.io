@@ -1,12 +1,7 @@
 ---
-title: bu zhi dao
-# collection: Seminars
-# type: aaa
+title: "bu zhi dao"
 author_profile: true
 permalink: /teaching/seminars/
-# venue: bbb
-# date: ccc
-# location: ddd
 redirect_from: 
   - /se/
   - /seminars.html
