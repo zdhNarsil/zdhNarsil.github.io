@@ -13,7 +13,8 @@ I often write some unofficial manuscripts and slides to help collect my thoughts
 
 ## Talk Slides
 ----
-* Review of normalizing flows [link]().
+* Review of normalizing flows [link](https://github.com/zdhNarsil/zdhNarsil.github.io/raw/master/files/Normalizing%20Flows.pptx)
+* Review of reweight methods [link]
 
 
 ## Notes
