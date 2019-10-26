@@ -17,6 +17,7 @@ I often write some unofficial manuscripts and slides to help collect my thoughts
 
 
 ## Notes
+* A note about adversarial robustness and other learning fields: [link](https://zdhNarsil.github.io/files/submission_for_queer.pdf)
 * A note about stochastic analysis: [link](https://zdhNarsil.github.io/files/Notes_of_Stochastic_Analysis.pdf)
 * A review on interpretating deep neural network: [link](https://zdhNarsil.github.io/files/interpretnn.pdf)
 * A short survey on Image Inpainting: [pdf(2018.6)](https://a1600012888.github.io/Survey on inpainting.pdf)
