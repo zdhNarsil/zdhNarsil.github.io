@@ -1,7 +1,7 @@
 ---
 title: "bu zhi dao"
 author_profile: true
-permalink: /teaching/seminars/
+permalink: /pages/seminars/
 redirect_from: 
   - /se/
   - /seminars.html
