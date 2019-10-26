@@ -1,11 +1,12 @@
 ---
 title: bu zhi dao
-collection: Seminars
-type: aaa
-permalink: /teaching/seminars
-venue: bbb
+# collection: Seminars
+# type: aaa
+# author_profile: true
+permalink: /teaching/seminars/
+# venue: bbb
 # date: ccc
-location: ddd
+# location: ddd
 ---
 
 These are the seminars I've participated in.
