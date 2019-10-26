@@ -9,9 +9,9 @@ redirect_from:
 
 I often write some unofficial manuscripts and slides to help collect my thoughts. 
 
-## Talk Slides!
+## Talk Slides!!!
 ----
-* Review of reweight methods: [link](https://github.com/zdhNarsil/zdhNarsil.github.io/files/Reweight_slides.pdf)
+* Review of reweight methods: [link](https://zdhNarsil.github.io/files/Reweight_slides.pdf)
 * Review of unlabeled data used in adversarial training:  [link](https://github.com/zdhNarsil/zdhNarsil.github.io/raw/master/files/unlabeladvtrain.pdf)
 * Some random paper sharing: [link](https://github.com/zdhNarsil/zdhNarsil.github.io/raw/master/files/paper_sharing_slides_for_yunjin_s_seminar.pdf)
 * Review of normalizing flows: [link](https://github.com/zdhNarsil/zdhNarsil.github.io/raw/master/files/Normalizing%20Flows.pptx)
