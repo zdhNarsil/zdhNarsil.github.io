@@ -6,9 +6,9 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Seminars"
-    # url: /teaching/
-    url: /pages/seminars/    
+  # - title: "Seminars"
+  #   # url: /teaching/
+  #   url: /pages/seminars/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
