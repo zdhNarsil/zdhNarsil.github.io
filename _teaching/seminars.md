@@ -4,7 +4,7 @@ collection: Seminars
 type: /
 permalink: /teaching/seminars
 venue: /
-date: /
+# date: /
 location: /
 ---
 
