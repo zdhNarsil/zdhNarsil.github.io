@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 These are the seminars I've participated in.
-jjkk
+jjkkll
 
 ### [Deep Learning Seminar](http://tianyuanzhang.com/teaching/)
