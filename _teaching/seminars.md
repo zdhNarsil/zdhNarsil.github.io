@@ -7,6 +7,9 @@ permalink: /teaching/seminars/
 # venue: bbb
 # date: ccc
 # location: ddd
+redirect_from: 
+  - /se/
+  - /seminars.html
 ---
 
 These are the seminars I've participated in.
