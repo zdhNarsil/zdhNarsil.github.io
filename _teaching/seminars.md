@@ -1,11 +1,11 @@
 ---
 title: bu zhi dao
 collection: Seminars
-type: /
+type: aaa
 permalink: /teaching/seminars
-venue: /
-# date: /
-location: /
+venue: bbb
+date: ccc
+location: ddd
 ---
 
 These are the seminars I've participated in.
