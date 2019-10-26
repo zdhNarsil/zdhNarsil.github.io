@@ -2,7 +2,7 @@
 title: bu zhi dao
 # collection: Seminars
 # type: aaa
-# author_profile: true
+author_profile: true
 permalink: /teaching/seminars/
 # venue: bbb
 # date: ccc
@@ -11,4 +11,4 @@ permalink: /teaching/seminars/
 
 These are the seminars I've participated in.
 
-###[Deep learning Seminar](http://tianyuanzhang.com/teaching/)
+### [Deep learning Seminar](http://tianyuanzhang.com/teaching/)
