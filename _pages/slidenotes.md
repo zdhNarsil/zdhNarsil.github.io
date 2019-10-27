@@ -15,10 +15,10 @@ I often write some unofficial manuscripts and slides to help collect my thoughts
 * Some random papers sharing: [link](https://zdhNarsil.github.io/files/paper_sharing_slides_for_yunjin_s_seminar.pdf)
 * A paper about off-policy evaluation: [link](https://zdhNarsil.github.io/files/Narsil-break the curse.pptx)
 * Review of normalizing flows: [link](https://zdhNarsil.github.io/files/Normalizing%20Flows.pptx)
-
+* Review of capsule networks: [link](https://zdhNarsil.github.io/files/A Brief Introduction to Capsule.pptx)
 
 ## Notes
-* A note about adversarial robustness and other learning fields: [link](https://zdhNarsil.github.io/files/submission_for_queer.pdf)
+* A note about connection between adversarial robustness and other learning fields: [link](https://zdhNarsil.github.io/files/submission_for_queer.pdf)
 * A note about stochastic analysis: [link](https://zdhNarsil.github.io/files/Notes_of_Stochastic_Analysis.pdf)
 * A review on interpretating deep neural network: [link](https://zdhNarsil.github.io/files/interpretnn.pdf)
 * A short survey on Image Inpainting: [pdf(2018.6)](https://a1600012888.github.io/Survey on inpainting.pdf)
