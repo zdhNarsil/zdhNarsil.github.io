@@ -13,10 +13,10 @@ I am a senior undergradutate in School of Mathematical Sciences at Peking Univer
 This winter, I will apply for Ph.D.
 
 **Research topics**
-* Probablistic inference, bayesian methods and generative models.
+* Probablistic inference, bayesian methods & generative models.
 * Adversarial robustness & certification.
 * Optimization.
-
+* Unsupervised learning (representation learning) & semi-supervised learning.
 
 <!--
 # News
