@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Dinghuai Zhang (张鼎怀), a senior undergradutate in School of Mathematical Sciences at Peking University advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). I have also worked with [Prof. Qiang Liu](https://www.cs.utexas.edu/~lqiang/index.html) and [Prof. Bin Dong](http://bicmr.pku.edu.cn/~dongbin).
+I am Dinghuai Zhang (张鼎怀), a senior undergradutate in School of Mathematical Sciences at Peking University advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). I have also worked with [Prof. Qiang Liu](https://www.cs.utexas.edu/~lqiang/index.html) and [Prof. Bin Dong](http://bicmr.pku.edu.cn/~dongbin). I am always open to possible cooperation or visiting opportunities. If you are interested, please contact me by email or [wechat](https://zdhNarsil.github.io/images/wechatqrcode.jpeg).
 
-This winter, I will apply for Ph.D.
+This winter, I will apply for Ph.D. 
 
 **Research topics**
 * Probablistic inference, bayesian methods & generative models.
@@ -24,11 +24,6 @@ This winter, I will apply for Ph.D.
 **[September, 2019]** [YOPO](https://arxiv.org/abs/1905.00877) was accepted by **NeurIPS19**. 
 
 **[July, 2019]**  One paper accepted by **ICCV19**. 
-
-**[April, 2019]** One paper accepted by **ICML19**. 
-
-**[April. 2019]** We published a new general detection dataset [Objects365](http://www.objects365.org/overview.html), which is designed to spur object detection research with a focus on diverse objects in the Wild.
-
 -->
 
 ## Publications
