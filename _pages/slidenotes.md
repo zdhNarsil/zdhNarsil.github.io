@@ -10,6 +10,7 @@ redirect_from:
 I often write some unofficial manuscripts and slides to help collect my thoughts. 
 
 ## Talk Slides
+* Learning in traditional methods: [link](https://zdhNarsil.github.io/tradition_nn_slides.pdf)
 * Review of reweight methods: [link](https://zdhNarsil.github.io/files/Reweight_slides.pdf)
 * Review of unlabeled data used in adversarial training: [link](https://zdhNarsil.github.io/files/unlabeladvtrain.pdf)
 * Some random papers sharing: [link](https://zdhNarsil.github.io/files/paper_sharing_slides_for_yunjin_s_seminar.pdf)
