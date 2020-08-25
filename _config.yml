@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dinghuai Zhang"
   avatar           : "IMG_2226.jpeg" # "portrait.jpeg"
-  bio              : "Undergraduate student in School of Mathematical Sciences at Peking University. zhangdinghuai [at] pku [dot] edu [dot] cn"
+  bio              : "PhD @ Mila. dinghuai [dot] zhang [at] mila [dot] quebec"
   location         : "Beijing China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=8W-MW9sAAAAJ&hl=zh-CN
-  email            : "zhangdinghuai@pku.edu.cn"
+  email            : "dinghuai.zhang@mila.quebec"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
