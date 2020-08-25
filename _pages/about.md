@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Dinghuai Zhang (张鼎怀), a senior undergradutate in School of Mathematical Sciences at Peking University advised by [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/). I have also worked with [Prof. Qiang Liu](https://www.cs.utexas.edu/~lqiang/index.html) and [Prof. Bin Dong](http://bicmr.pku.edu.cn/~dongbin). I am always open to possible cooperation or visiting opportunities. If you are interested, please contact me by email or [wechat](https://zdhNarsil.github.io/images/wechatqrcode.jpeg).
+I am Dinghuai Zhang (张鼎怀), a PhD in Mila advised by Prof. Aaron Courville. I was an undergradutate in School of Mathematical Sciences at Peking University, working with [Prof. Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/) and [Prof. Bin Dong](http://bicmr.pku.edu.cn/~dongbin). I am always open to possible cooperation or visiting opportunities. If you are interested, please contact me by email or [wechat](https://zdhNarsil.github.io/images/wechatqrcode.jpeg).
  
 
 **Research topics**
 * Probablistic inference, bayesian methods & generative models.
 * Adversarial robustness & certification.
-* Causal inference.
-* Unsupervised learning (representation learning) & semi-supervised learning.
+* Causal inference & Out-of-distribution generalization.
+* Representation learning & semi-supervised learning.
 
 <!--
 # News
