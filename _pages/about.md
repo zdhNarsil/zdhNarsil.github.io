@@ -32,7 +32,7 @@ I am Dinghuai Zhang (张鼎怀), a PhD in Mila advised by [Prof. Aaron Courville
 [Black-Box Certification with Randomized Smoothing: A Functional Optimization Based Framework](https://arxiv.org/abs/2002.09169). *Dinghuai Zhang*\*, Mao Ye\*, Chengyue Gong\* , Zhanxing Zhu, Qiang Liu. *submitted*
 
 [You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle](https://arxiv.org/abs/1905.00877). 
-*Dinghuai Zhang*\*, Tianyuan Zhang\*,Yiping Lu\*, Zhanxing Zhu, Bin Dong. [[slide](https://zdhNarsil.github.io/files/YOPO_slides.pdf)] [[poster](https://zdhNarsil.github.io/files/YOPO_NeurIPS2019_Poster.pdf)] [[code](https://github.com/a1600012888/YOPO-You-Only-Propagate-Once)] 33rd Conference on Neural Information Processing Systems (**NeurIPS 2019**)
+*Dinghuai Zhang*\*, Tianyuan Zhang\*,Yiping Lu\*, Zhanxing Zhu, Bin Dong. [[slide](https://zdhNarsil.github.io/files/YOPO_slides.pdf)] [[poster](https://zdhNarsil.github.io/files/YOPO_NeurIPS2019_Poster.pdf)] [[zhihu](https://zhuanlan.zhihu.com/p/68351267)] [[code](https://github.com/a1600012888/YOPO-You-Only-Propagate-Once)] 33rd Conference on Neural Information Processing Systems (**NeurIPS 2019**)
 
 ( * denotes equal contribution)
 
