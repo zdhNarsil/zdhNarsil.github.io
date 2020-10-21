@@ -27,6 +27,10 @@ I am Dinghuai Zhang (张鼎怀), a PhD in Mila advised by [Prof. Aaron Courville
 
 ## Publications
 
+[Neural Approximate Sufficient Statistics for Implicit Models](https://arxiv.org/abs/2010.10079).  
+Yanzhi Chen\*, *Dinghuai Zhang*\*, Michael Gutmann, Aaron Courville, Zhanxing Zhu.  
+Submitted.
+
 [Black-Box Certification with Randomized Smoothing: A Functional Optimization Based Framework](https://arxiv.org/abs/2002.09169).  
 *Dinghuai Zhang*\*, Mao Ye\*, Chengyue Gong\* , Zhanxing Zhu, Qiang Liu.  
 34th Conference on Neural Information Processing Systems (**NeurIPS 2020**)
