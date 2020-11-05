@@ -31,7 +31,7 @@ I am Dinghuai Zhang (张鼎怀), a PhD in Mila advised by [Prof. Aaron Courville
 Yanzhi Chen\*, *Dinghuai Zhang*\*, Michael Gutmann, Aaron Courville, Zhanxing Zhu.  
 Submitted.
 
-[Black-Box Certification with Randomized Smoothing: A Functional Optimization Based Framework](https://arxiv.org/abs/2002.09169). 
+[Black-Box Certification with Randomized Smoothing: A Functional Optimization Based Framework](https://arxiv.org/abs/2002.09169).  
 *Dinghuai Zhang*\*, Mao Ye\*, Chengyue Gong\* , Zhanxing Zhu, Qiang Liu. [[poster](https://zdhNarsil.github.io/files/nips2020poster_certification.pdf)] [[slide](https://zdhNarsil.github.io/files/certification_slides.pdf)]    
 34th Conference on Neural Information Processing Systems (**NeurIPS 2020**)
 
