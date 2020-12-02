@@ -25,7 +25,7 @@ I am Dinghuai Zhang (张鼎怀), a PhD in Mila advised by [Prof. Aaron Courville
 **[July, 2019]**  One paper accepted by **ICCV19**. 
 -->
 
-## Publications
+### Publications
 
 [Neural Approximate Sufficient Statistics for Implicit Models](https://arxiv.org/abs/2010.10079).  
 Yanzhi Chen\*, *Dinghuai Zhang*\*, Michael Gutmann, Aaron Courville, Zhanxing Zhu.  
@@ -45,9 +45,14 @@ Baifeng Shi\*, *Dinghuai Zhang*\*, Qi Dai, Zhanxing Zhu, Yadong Mu, Jingdong Wan
 
 ( * denotes equal contribution)
 
-## Seminars
+### Seminars
 These are some of the seminars I've co-organized / participated in.
 
 - [Deep Learning Seminar](http://tianyuanzhang.com/teaching/)
 - [Tools Seminar](https://github.com/pppppass/ToolsSeminar)
 - [ML & CV Seminar](http://ml.2prime.cn/)
+
+### Miscs
+* I enjoy books on sociology. My favorite sociologists include Georg Simmel and Sigmund Freud.
+* I love street photography. I used to be a huge fan of Daido Moriyama and Henri Cartier-Bresson.
+* I paint Chinese calligraphy well.
