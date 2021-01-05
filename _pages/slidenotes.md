@@ -22,7 +22,7 @@ I often write some unofficial manuscripts and slides to help collect my thoughts
 
 ## Notes
 * A note on unifying different probabilistic inference approaches: [link](https://zdhNarsil.github.io/files/notes_about_unifying_probabilistic_inference.pdf)
-* A note on connection between adversarial robustness and other learning fields: [link](https://zdhNarsil.github.io/files/submission_for_queer.pdf)
+* A note on connection between adversarial robustness and other learning fields: [link](https://zdhNarsil.github.io/files/bridge_adv_and_others.pdf)
 * A note on stochastic analysis: [link](https://zdhNarsil.github.io/files/Notes_of_Stochastic_Analysis.pdf)
 * A review on interpretating deep neural network: [link](https://zdhNarsil.github.io/files/interpretnn.pdf)
 * A short survey on Image Inpainting: [pdf(2018.6)](https://a1600012888.github.io/Survey on inpainting.pdf)
