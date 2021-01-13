@@ -28,11 +28,11 @@ I am Dinghuai Zhang (张鼎怀), a PhD in Mila advised by [Prof. Aaron Courville
 ### Publications
 
 [Neural Approximate Sufficient Statistics for Implicit Models](https://arxiv.org/abs/2010.10079).  
-Yanzhi Chen\*, *Dinghuai Zhang*\*, Michael Gutmann, Aaron Courville, Zhanxing Zhu. [[openreview](https://openreview.net/forum?id=SRDuJssQud&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2021%2FConference%2FAuthors%23your-submissions))]
+Yanzhi Chen\*, *Dinghuai Zhang*\*, Michael Gutmann, Aaron Courville, Zhanxing Zhu. [[openreview](https://openreview.net/forum?id=SRDuJssQud&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2021%2FConference%2FAuthors%23your-submissions))]  
 9th International Conference on Learning Representations (**ICLR 2021 spotlight**)
 
 [Black-Box Certification with Randomized Smoothing: A Functional Optimization Based Framework](https://arxiv.org/abs/2002.09169).    
-*Dinghuai Zhang*\*, Mao Ye\*, Chengyue Gong\* , Zhanxing Zhu, Qiang Liu. [[poster](https://zdhNarsil.github.io/files/nips2020poster_certification.pdf)] [[slide](https://zdhNarsil.github.io/files/certification_slides.pdf)]   
+*Dinghuai Zhang*\*, Mao Ye\*, Chengyue Gong\* , Zhanxing Zhu, Qiang Liu. [[poster](https://zdhNarsil.github.io/files/nips2020poster_certification.pdf)] [[slide](https://zdhNarsil.github.io/files/certification_slides.pdf)] 
 34th Conference on Neural Information Processing Systems (**NeurIPS 2020**)
 
 [Informative Dropout for Robust Representation Learning: A Shape-bias Perspective](https://arxiv.org/abs/2008.04254).   
