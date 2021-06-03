@@ -9,6 +9,8 @@ redirect_from:
 
 I often write some unofficial manuscripts and slides to help collect my thoughts. 
 
+I maintain a (possibly outdated) paper list for out-of-distributional generalization [here](https://sites.google.com/site/irinarish/ood_generalization) (thanks for Irina's help!).
+
 ## Talk Slides
 * Review of counterfactual representation learning: [link](https://zdhNarsil.github.io/files/treatment_effect.pdf)
 * Review of out-of-distribution generalization: [link](https://zdhNarsil.github.io/files/Intro_of_OoD.pdf)
