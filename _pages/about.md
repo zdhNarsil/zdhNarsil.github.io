@@ -27,7 +27,7 @@ I am Dinghuai Zhang (张鼎怀), a student in Mila advised by [Prof. Aaron Courv
 
 ### Publications
 <!--
-[Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?]().   
+[Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?](https://arxiv.org/abs/2106.02890).   
 *Dinghuai Zhang*, Kartik Ahuja, Yilun Xu, Yisen Wang, Aaron Courville.   
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 
