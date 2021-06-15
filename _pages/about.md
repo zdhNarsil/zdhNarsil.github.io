@@ -27,6 +27,10 @@ I am Dinghuai Zhang (张鼎怀), a student in Mila advised by [Prof. Aaron Courv
 
 ### Publications
 <!--
+[Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization](https://arxiv.org/abs/2106.06607). 
+Kartik Ahuja, Ethan Caballero\*, *Dinghuai Zhang*\*, Yoshua Bengio, Ioannis Mitliagkas, Irina Rish. 
+Arxiv 2021. 
+
 [Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?](https://arxiv.org/abs/2106.02890).   
 *Dinghuai Zhang*, Kartik Ahuja, Yilun Xu, Yisen Wang, Aaron Courville.   
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
