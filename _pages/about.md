@@ -31,14 +31,14 @@ I am Dinghuai Zhang (张鼎怀), a student in Mila. I was an undergradutate in S
 Kartik Ahuja, Ethan Caballero\*, *Dinghuai Zhang*\*, Yoshua Bengio, Ioannis Mitliagkas, Irina Rish. 
 Arxiv 2021. 
 
-[Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?](https://arxiv.org/abs/2106.02890).  [[slide](https://zdhNarsil.github.io/files/icml2021_invsubnet_slides.pdf)]  
-*Dinghuai Zhang*, Kartik Ahuja, Yilun Xu, Yisen Wang, Aaron Courville.   
-38th International Conference on Machine Learning (**ICML 2021 long talk**)
-
 [Out-of-Distribution Generalization via Risk Extrapolation (REx)](https://arxiv.org/abs/2003.00688).  
 David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas, *Dinghuai Zhang*, Rémi Le Priol, Aaron Courville.  
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 -->
+
+[Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?](https://arxiv.org/abs/2106.02890).  [[slide](https://zdhNarsil.github.io/files/icml2021_invsubnet_slides.pdf)]  
+*Dinghuai Zhang*, Kartik Ahuja, Yilun Xu, Yisen Wang, Aaron Courville.   
+38th International Conference on Machine Learning (**ICML 2021 long talk**)
 
 [Neural Approximate Sufficient Statistics for Implicit Models](https://arxiv.org/abs/2010.10079).  [[openreview](https://openreview.net/forum?id=SRDuJssQud)] [[poster](https://zdhNarsil.github.io/files/poster_nass_iclr2021.pdf)] [[slide](https://zdhNarsil.github.io/files/slides_nass.pdf)]  
 Yanzhi Chen\*, *Dinghuai Zhang*\*, Michael Gutmann, Aaron Courville, Zhanxing Zhu.  
