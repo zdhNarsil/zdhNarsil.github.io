@@ -67,11 +67,12 @@ Baifeng Shi\*, *Dinghuai Zhang*\*, Qi Dai, Zhanxing Zhu, Yadong Mu, Jingdong Wan
 ### Seminars
 These are some of the seminars I've co-organized / participated in.
 
+- [Out-of-distribution Generalization Reading Group](https://sites.google.com/view/mila-ood-rg/)
 - [Deep Learning Seminar](http://tianyuanzhang.com/teaching/)
 - [Tools Seminar](https://github.com/pppppass/ToolsSeminar)
 - [ML & CV Seminar](http://ml.2prime.cn/)
 
 ### Miscs
-* I enjoy books on sociology. My favorite sociologists include Georg Simmel and Sigmund Freud.
+* I enjoy books on sociology. I read about wisemen such as Georg Simmel, Norbert Elias, Max Weber, Sigmund Freud, blabla.
 * I love street photography. I used to be a huge fan of Daido Moriyama and Henri Cartier-Bresson.
-* I paint Chinese calligraphy well.
+* I paint Chinese calligraphy well since a child.
