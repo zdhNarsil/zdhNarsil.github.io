@@ -41,7 +41,7 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 [Unifying Likelihood-free Inference with Black-box Sequence Design and Beyond](http://arxiv.org/abs/2110.03372).  
 *Dinghuai Zhang*, Jie Fu, Yoshua Bengio, Aaron Courville.
 
-[Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?](https://arxiv.org/abs/2106.02890).  [[poster](https://zdhNarsil.github.io/files/icml2021_invsubnet_poster.pdf)] [[slide](https://zdhNarsil.github.io/files/icml2021_invsubnet_slides.pdf)]   
+[Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?](https://arxiv.org/abs/2106.02890)  [[poster](https://zdhNarsil.github.io/files/icml2021_invsubnet_poster.pdf)] [[slide](https://zdhNarsil.github.io/files/icml2021_invsubnet_slides.pdf)]   
 *Dinghuai Zhang*, Kartik Ahuja, Yilun Xu, Yisen Wang, Aaron Courville.   
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 
