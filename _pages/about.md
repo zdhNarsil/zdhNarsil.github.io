@@ -38,7 +38,7 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 -->
 
-[Unifying Likelihood-free Inference with Black-box Sequence Design and Beyond](http://arxiv.org/abs/2110.03372).  
+[Unifying Likelihood-free Inference with Black-box Sequence Design and Beyond](http://arxiv.org/abs/2110.03372)  
 *Dinghuai Zhang*, Jie Fu, Yoshua Bengio, Aaron Courville.
 
 [Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?](https://arxiv.org/abs/2106.02890)  [[poster](https://zdhNarsil.github.io/files/icml2021_invsubnet_poster.pdf)] [[slide](https://zdhNarsil.github.io/files/icml2021_invsubnet_slides.pdf)]   
@@ -46,19 +46,19 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 
 
-[Neural Approximate Sufficient Statistics for Implicit Models](https://arxiv.org/abs/2010.10079).  [[openreview](https://openreview.net/forum?id=SRDuJssQud)] [[poster](https://zdhNarsil.github.io/files/poster_nass_iclr2021.pdf)] [[slide](https://zdhNarsil.github.io/files/slides_nass.pdf)]  
+[Neural Approximate Sufficient Statistics for Implicit Models](https://arxiv.org/abs/2010.10079)  [[openreview](https://openreview.net/forum?id=SRDuJssQud)] [[poster](https://zdhNarsil.github.io/files/poster_nass_iclr2021.pdf)] [[slide](https://zdhNarsil.github.io/files/slides_nass.pdf)]  
 Yanzhi Chen\*, *Dinghuai Zhang*\*, Michael Gutmann, Aaron Courville, Zhanxing Zhu.  
 9th International Conference on Learning Representations (**ICLR 2021 spotlight**)
 
-[Black-Box Certification with Randomized Smoothing: A Functional Optimization Based Framework](https://arxiv.org/abs/2002.09169). [[poster](https://zdhNarsil.github.io/files/nips2020poster_certification.pdf)] [[slide](https://zdhNarsil.github.io/files/certification_slides.pdf)]     
+[Black-Box Certification with Randomized Smoothing: A Functional Optimization Based Framework](https://arxiv.org/abs/2002.09169) [[poster](https://zdhNarsil.github.io/files/nips2020poster_certification.pdf)] [[slide](https://zdhNarsil.github.io/files/certification_slides.pdf)]     
 *Dinghuai Zhang*\*, Mao Ye\*, Chengyue Gong\* , Zhanxing Zhu, Qiang Liu.         
 34th Conference on Neural Information Processing Systems (**NeurIPS 2020**)
 
-[Informative Dropout for Robust Representation Learning: A Shape-bias Perspective](https://arxiv.org/abs/2008.04254).  [[slide](https://zdhNarsil.github.io/files/infodrop_slides.pdf)] [[zhihu](https://zhuanlan.zhihu.com/p/197929813)]  
+[Informative Dropout for Robust Representation Learning: A Shape-bias Perspective](https://arxiv.org/abs/2008.04254)  [[slide](https://zdhNarsil.github.io/files/infodrop_slides.pdf)] [[zhihu](https://zhuanlan.zhihu.com/p/197929813)]  
 Baifeng Shi\*, *Dinghuai Zhang*\*, Qi Dai, Zhanxing Zhu, Yadong Mu, Jingdong Wang.      
 37th International Conference on Machine Learning (**ICML 2020**)
 
-[You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle](https://arxiv.org/abs/1905.00877). [[poster](https://zdhNarsil.github.io/files/YOPO_NeurIPS2019_Poster.pdf)] [[slide](https://zdhNarsil.github.io/files/YOPO_slides.pdf)] [[zhihu](https://zhuanlan.zhihu.com/p/68351267)]  
+[You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle](https://arxiv.org/abs/1905.00877) [[poster](https://zdhNarsil.github.io/files/YOPO_NeurIPS2019_Poster.pdf)] [[slide](https://zdhNarsil.github.io/files/YOPO_slides.pdf)] [[zhihu](https://zhuanlan.zhihu.com/p/68351267)]  
 *Dinghuai Zhang*\*, Tianyuan Zhang\*,Yiping Lu\*, Zhanxing Zhu, Bin Dong.      
 33rd Conference on Neural Information Processing Systems (**NeurIPS 2019**)
 
