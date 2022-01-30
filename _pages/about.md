@@ -38,7 +38,7 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 -->
 
-[Unifying Likelihood-free Inference with Black-box Sequence Design and Beyond](http://arxiv.org/abs/2110.03372)  
+[Unifying Likelihood-free Inference with Black-box Sequence Design and Beyond](http://arxiv.org/abs/2110.03372) [[openreview](https://openreview.net/forum?id=1HxTO6CTkz)]     
 *Dinghuai Zhang*, Jie Fu, Yoshua Bengio, Aaron Courville.  
 10th International Conference on Learning Representations (**ICLR 2022 spotlight**)
 
