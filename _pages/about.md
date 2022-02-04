@@ -34,11 +34,14 @@ Kartik Ahuja, Ethan Caballero\*, *Dinghuai Zhang*\*, Yoshua Bengio, Ioannis Mitl
 Arxiv 2021. 
 
 [Out-of-Distribution Generalization via Risk Extrapolation (REx)](https://arxiv.org/abs/2003.00688).  
-David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas, *Dinghuai Zhang*, Rémi Le Priol, Aaron Courville.  
+David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas, *Dinghuai Zhang*, Rémi Le Priol, Aaron Courville.   
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 -->
 
-[Unifying Likelihood-free Inference with Black-box Sequence Design and Beyond](http://arxiv.org/abs/2110.03372) [[openreview](https://openreview.net/forum?id=1HxTO6CTkz)]     
+[Generative Flow Networks for Discrete Probabilistic Modeling](https://arxiv.org/abs/2202.01361)  
+*Dinghuai Zhang*, Nikolay Malkin, Zhen Liu, Alexandra Volokhova, Aaron Courville, Yoshua Bengio. 
+
+[Unifying Likelihood-free Inference with Black-box Optimization and Beyond](http://arxiv.org/abs/2110.03372) [[openreview](https://openreview.net/forum?id=1HxTO6CTkz)]     
 *Dinghuai Zhang*, Jie Fu, Yoshua Bengio, Aaron Courville.  
 10th International Conference on Learning Representations (**ICLR 2022 spotlight**)
 
