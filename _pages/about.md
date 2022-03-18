@@ -17,6 +17,7 @@ I am always open to possible cooperation or visiting opportunities. If you are i
 **Research interests**
 * Causal inference & out-of-distribution generalization (invariant prediction, adversarial robustness).
 * Uncertainty (Bayesian inference, conformal inference) & generative models.
+* Exploration with structure (RL, active learning).
 
 
 <!--
