@@ -24,11 +24,11 @@ I maintain a (possibly outdated) paper list for out-of-distribution generalizati
 * Review of capsule networks: [link](https://zdhNarsil.github.io/files/A Brief Introduction to Capsule.pptx)
 
 ## Notes
-* A note about kernelized Wasserstein gradient flow: [link](https://zdhNarsil.github.io/files/Kernelized%20Wasserstein%20Gradient%20Flow.pdf)
-* A note on conformal inference basics: [link](https://zdhNarsil.github.io/files/conformal_inference_basics.pdf)
-* A note on unifying different probabilistic inference approaches: [link](https://zdhNarsil.github.io/files/notes_about_unifying_probabilistic_inference.pdf)
-* A note on connection between adversarial robustness and other learning fields: [link](https://zdhNarsil.github.io/files/bridge_adv_and_others.pdf)
-* A note on stochastic analysis: [link](https://zdhNarsil.github.io/files/Notes_of_Stochastic_Analysis.pdf)
+* Kernelized Wasserstein gradient flow: [link](https://zdhNarsil.github.io/files/Kernelized%20Wasserstein%20Gradient%20Flow.pdf)
+* Conformal inference basics: [link](https://zdhNarsil.github.io/files/conformal_inference_basics.pdf)
+* A way to unify different probabilistic inference approaches: [link](https://zdhNarsil.github.io/files/notes_about_unifying_probabilistic_inference.pdf)
+* Connection between adversarial robustness and other learning fields: [link](https://zdhNarsil.github.io/files/bridge_adv_and_others.pdf)
+* Stochastic analysis: [link](https://zdhNarsil.github.io/files/Notes_of_Stochastic_Analysis.pdf)
 * A review on interpretating deep neural network: [link](https://zdhNarsil.github.io/files/interpretnn.pdf)
 * A short survey on Image Inpainting: [link](https://a1600012888.github.io/Survey on inpainting.pdf)
 
