@@ -40,7 +40,7 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 -->
 
 Building Robust Ensembles via Margin Boosting  
-*Dinghuai Zhang*, Hongyang Zhang, Aaron Courville, Yoshua Bengio, Pradeep Ravikumar, Arun Sai Suggala.  
+*Dinghuai Zhang*, Hongyang Zhang, Yoshua Bengio, Aaron Courville, Pradeep Ravikumar, Arun Sai Suggala.  
 39th International Conference on Machine Learning (**ICML 2022**)
 
 [Generative Flow Networks for Discrete Probabilistic Modeling](https://arxiv.org/abs/2202.01361)  
