@@ -39,8 +39,13 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 -->
 
+Building Robust Ensembles via Margin Boosting  
+*Dinghuai Zhang*, Hongyang Zhang, Aaron Courville, Yoshua Bengio, Pradeep Ravikumar, Arun Sai Suggala.  
+39th International Conference on Machine Learning (**ICML 2022**)
+
 [Generative Flow Networks for Discrete Probabilistic Modeling](https://arxiv.org/abs/2202.01361)  
-*Dinghuai Zhang*, Nikolay Malkin, Zhen Liu, Alexandra Volokhova, Aaron Courville, Yoshua Bengio. 
+*Dinghuai Zhang*, Nikolay Malkin, Zhen Liu, Alexandra Volokhova, Aaron Courville, Yoshua Bengio.  
+39th International Conference on Machine Learning (**ICML 2022**)
 
 [Unifying Likelihood-free Inference with Black-box Optimization and Beyond](http://arxiv.org/abs/2110.03372) [[openreview](https://openreview.net/forum?id=1HxTO6CTkz)]     
 *Dinghuai Zhang*, Jie Fu, Yoshua Bengio, Aaron Courville.  
