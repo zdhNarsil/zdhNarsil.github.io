@@ -24,6 +24,7 @@ I maintain a (possibly outdated) paper list for out-of-distribution generalizati
 * Review of capsule networks: [link](https://zdhNarsil.github.io/files/A Brief Introduction to Capsule.pptx)
 
 ## Notes
+* Unifying generative models with / as GFlowNets: [link](https://zdhNarsil.github.io/files/Unifying_GM_as_GFlowNets.pdf)
 * Kernelized Wasserstein gradient flow: [link](https://zdhNarsil.github.io/files/Kernelized%20Wasserstein%20Gradient%20Flow.pdf)
 * Conformal inference basics: [link](https://zdhNarsil.github.io/files/conformal_inference_basics.pdf)
 * A way to unify different probabilistic inference approaches: [link](https://zdhNarsil.github.io/files/notes_about_unifying_probabilistic_inference.pdf)
