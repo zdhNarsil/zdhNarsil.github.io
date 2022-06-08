@@ -39,7 +39,7 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 -->
 
-Building Robust Ensembles via Margin Boosting  
+[Building Robust Ensembles via Margin Boosting](http://arxiv.org/abs/2206.03362)    
 *Dinghuai Zhang*, Hongyang Zhang, Aaron Courville, Yoshua Bengio, Pradeep Ravikumar, Arun Sai Suggala.  
 39th International Conference on Machine Learning (**ICML 2022**)
 
