@@ -25,7 +25,6 @@ I maintain a (possibly outdated) paper list for out-of-distribution generalizati
 
 ## Notes
 * Bayesian optimal experimental design: [link](https://zdhNarsil.github.io/files/Experimental Design.pdf)
-* Unifying generative models with / as GFlowNets: [link](https://arxiv.org/abs/2209.02606)
 * Kernelized Wasserstein gradient flow: [link](https://zdhNarsil.github.io/files/Kernelized%20Wasserstein%20Gradient%20Flow.pdf)
 * Conformal inference basics: [link](https://zdhNarsil.github.io/files/conformal_inference_basics.pdf)
 * A way to unify different probabilistic inference approaches: [link](https://zdhNarsil.github.io/files/notes_about_unifying_probabilistic_inference.pdf)
