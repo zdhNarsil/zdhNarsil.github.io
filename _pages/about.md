@@ -41,6 +41,14 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 -->
 
+[Latent State Marginalization as a Low-cost Approach for Improving Exploration](https://arxiv.org/abs/2210.00999)  
+*Dinghuai Zhang*, Aaron Courville, Yoshua Bengio, Qinqing Zheng, Amy Zhang, Ricky T. Q. Chen.  
+Preprint   
+ 
+[Predictive Inference with Feature Conformal Prediction](https://arxiv.org/abs/2210.00173)  
+Jiaye Teng\*, Chuan Wen\*, *Dinghuai Zhang*\*, Yoshua Bengio, Yang Gao, Yang Yuan.  
+Preprint   
+ 
 [Unifying Generative Models with GFlowNets](https://arxiv.org/abs/2209.02606)   
 *Dinghuai Zhang*, Ricky T. Q. Chen, Nikolay Malkin, Yoshua Bengio.  
 Preprint note    
