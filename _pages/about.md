@@ -53,15 +53,15 @@ Preprint
 *Dinghuai Zhang*, Ricky T. Q. Chen, Nikolay Malkin, Yoshua Bengio.  
 Preprint note    
 
-[Generative Flow Networks for Discrete Probabilistic Modeling](https://arxiv.org/abs/2202.01361)  
+[Generative Flow Networks for Discrete Probabilistic Modeling](https://arxiv.org/abs/2202.01361) [[poster](https://zdhNarsil.github.io/files/poster_ICML2022_EB_GFlowNet.pdf)] [[slide](https://zdhNarsil.github.io/files/slides_EB_GFN.pdf)]       
 *Dinghuai Zhang*, Nikolay Malkin, Zhen Liu, Alexandra Volokhova, Aaron Courville, Yoshua Bengio.  
 39th International Conference on Machine Learning (**ICML 2022**)   
 
-[Building Robust Ensembles via Margin Boosting](http://arxiv.org/abs/2206.03362)    
+[Building Robust Ensembles via Margin Boosting](http://arxiv.org/abs/2206.03362) [[poster](https://zdhNarsil.github.io/files/Poster - margin boosting.pdf)] [[slide](https://zdhNarsil.github.io/files/slides - Building Robust Ensembles via Margin Boosting.pdf)]       
 *Dinghuai Zhang*, Hongyang Zhang, Aaron Courville, Yoshua Bengio, Pradeep Ravikumar, Arun Sai Suggala.  
 39th International Conference on Machine Learning (**ICML 2022**)
 
-[Unifying Likelihood-free Inference with Black-box Optimization and Beyond](http://arxiv.org/abs/2110.03372) [[openreview](https://openreview.net/forum?id=1HxTO6CTkz)]     
+[Unifying Likelihood-free Inference with Black-box Optimization and Beyond](http://arxiv.org/abs/2110.03372) [[openreview](https://openreview.net/forum?id=1HxTO6CTkz)] [[slide](https://zdhNarsil.github.io/files/slides_ICLR22_lfi_bbopt.pdf)]      
 *Dinghuai Zhang*, Jie Fu, Yoshua Bengio, Aaron Courville.  
 10th International Conference on Learning Representations (**ICLR 2022 spotlight**)
 
