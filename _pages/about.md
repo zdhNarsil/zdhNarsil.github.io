@@ -97,6 +97,6 @@ These are some of the seminars I've co-organized / participated in.
 - [ML & CV Seminar](http://ml.2prime.cn/)
 
 ### Miscs
-* I enjoy books on sociology. I read about wisemen such as Georg Simmel, Norbert Elias, Max Weber, Sigmund Freud, blabla.
-* I love street photography. I used to be a huge fan of Daido Moriyama and Henri Cartier-Bresson.
+* I enjoy reading. I feel lucky to learn about wisdom from sociologists such as Georg Simmel, Norbert Elias, Max Weber, Sigmund Freud. I occasionally write some thoughts in Chinese at [douban](https://www.douban.com/people/161587233/).
+* I used to be a huge fan of Daido Moriyama and Henri Cartier-Bresson (street photography pioneers). 
 * I paint Chinese calligraphy well since a child.
