@@ -41,17 +41,17 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 -->
 
+[Unifying Generative Models with GFlowNets](https://arxiv.org/abs/2209.02606)   
+*Dinghuai Zhang*, Ricky T. Q. Chen, Nikolay Malkin, Yoshua Bengio.  
+Preprint note   
+
 [Latent State Marginalization as a Low-cost Approach for Improving Exploration](https://arxiv.org/abs/2210.00999)  
 *Dinghuai Zhang*, Aaron Courville, Yoshua Bengio, Qinqing Zheng, Amy Zhang, Ricky T. Q. Chen.  
-Preprint   
+11th International Conference on Learning Representations (**ICLR 2023**)  
  
 [Predictive Inference with Feature Conformal Prediction](https://arxiv.org/abs/2210.00173)  
 Jiaye Teng\*, Chuan Wen\*, *Dinghuai Zhang*\*, Yoshua Bengio, Yang Gao, Yang Yuan.  
-Preprint   
- 
-[Unifying Generative Models with GFlowNets](https://arxiv.org/abs/2209.02606)   
-*Dinghuai Zhang*, Ricky T. Q. Chen, Nikolay Malkin, Yoshua Bengio.  
-Preprint note    
+11th International Conference on Learning Representations (**ICLR 2023**)     
 
 [Generative Flow Networks for Discrete Probabilistic Modeling](https://arxiv.org/abs/2202.01361) [[poster](https://zdhNarsil.github.io/files/poster_ICML2022_EB_GFlowNet.pdf)] [[slide](https://zdhNarsil.github.io/files/slides_EB_GFN.pdf)]       
 *Dinghuai Zhang*, Nikolay Malkin, Zhen Liu, Alexandra Volokhova, Aaron Courville, Yoshua Bengio.  
