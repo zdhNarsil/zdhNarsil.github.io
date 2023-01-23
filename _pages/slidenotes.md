@@ -14,6 +14,8 @@ I maintain a resource list for GFlowNets [here](https://github.com/zdhNarsil/Awe
 ~~I maintain a (possibly outdated) paper list for out-of-distribution generalization [here](https://sites.google.com/site/irinarish/ood_generalization) (thanks for Irina's help!).~~
 
 ## Talk Slides
+* At the Intersection of Probabilistic
+Inference and Exploration Methods: [link](https://zdhNarsil.github.io/files/slides_dinghuai_research 2022.12.pdf)
 * Review of counterfactual representation learning: [link](https://zdhNarsil.github.io/files/treatment_effect.pdf)
 * Review of out-of-distribution generalization: [link](https://zdhNarsil.github.io/files/Intro_of_OoD.pdf)
 * Introduction to causal inference: [link](https://zdhNarsil.github.io/files/intro_causality.pdf)
