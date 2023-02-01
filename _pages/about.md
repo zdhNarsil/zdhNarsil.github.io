@@ -30,7 +30,7 @@ I've also conducted AI safety research (distribution shift, causal representatio
 **[July, 2019]**  One paper accepted by **ICCV19**. 
 -->
 
-### Publications
+## Publications
 <!--
 [Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization](https://arxiv.org/abs/2106.06607). 
 Kartik Ahuja, Ethan Caballero\*, *Dinghuai Zhang*\*, Yoshua Bengio, Ioannis Mitliagkas, Irina Rish. 
@@ -88,6 +88,7 @@ Baifeng Shi\*, *Dinghuai Zhang*\*, Qi Dai, Zhanxing Zhu, Yadong Mu, Jingdong Wan
 
 ( * denotes equal contribution)
 
+## Activities
 ### Seminars
 These are some of the seminars I've co-organized / participated in.
 
@@ -96,7 +97,10 @@ These are some of the seminars I've co-organized / participated in.
 - [Tools Seminar](https://github.com/pppppass/ToolsSeminar)
 - [ML & CV Seminar](http://ml.2prime.cn/)
 
-### Miscs
+### Services
+I review for ![JMLR](https://zdhNarsil.github.io/files/I_review_JMLR.gif =100x100), ICML, NeurIPS, ICLR, AISTATS, UAI.
+
+## Miscs
 * I enjoy reading. I feel lucky to learn about wisdom from sociologists such as Georg Simmel, Norbert Elias, Max Weber, Sigmund Freud. I occasionally write some thoughts in Chinese at [douban](https://www.douban.com/people/161587233/).
 * I used to be a huge fan of Daido Moriyama and Henri Cartier-Bresson (street photography pioneers). 
 * I paint Chinese calligraphy well since a child.
