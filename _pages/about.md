@@ -18,7 +18,7 @@ I am always open to possible cooperation or visiting opportunities. If you are i
 
 **Research interests**
 * Probabilistic methods (inference, generative models, uncertainty modeling)
-* Exploration with structure (RL, active learning).
+* Exploration with structure (RL, search, black-box optimization, active learning).
 
 I've also conducted AI safety research (distribution shift, causal representation learning).
 
