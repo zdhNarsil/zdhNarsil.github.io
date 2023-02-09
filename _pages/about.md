@@ -45,7 +45,7 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 *Dinghuai Zhang*, Ricky T. Q. Chen, Nikolay Malkin, Yoshua Bengio.  
 Preprint note   
 
-[Latent State Marginalization as a Low-cost Approach for Improving Exploration](https://arxiv.org/abs/2210.00999)  
+[Latent State Marginalization as a Low-cost Approach for Improving Exploration](https://arxiv.org/abs/2210.00999) [[openreview](https://openreview.net/forum?id=b0UksKFcTOL)]  
 *Dinghuai Zhang*, Aaron Courville, Yoshua Bengio, Qinqing Zheng, Amy Zhang, Ricky T. Q. Chen.  
 11th International Conference on Learning Representations (**ICLR 2023**)  
  
