@@ -41,6 +41,10 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 -->
 
+[Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793)  
+Dinghuai Zhang*, Ling Pan*, Ricky T. Q. Chen, Aaron Courville, Yoshua Bengio.  
+Preprint
+
 [Unifying Generative Models with GFlowNets and Beyond](https://arxiv.org/abs/2209.02606)   
 *Dinghuai Zhang*, Ricky T. Q. Chen, Nikolay Malkin, Yoshua Bengio.  
 Preprint note   
