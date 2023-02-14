@@ -42,7 +42,7 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 -->
 
 [Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793)  
-Dinghuai Zhang*, Ling Pan*, Ricky T. Q. Chen, Aaron Courville, Yoshua Bengio.  
+*Dinghuai Zhang*\*, Ling Pan\*, Ricky T. Q. Chen, Aaron Courville, Yoshua Bengio.  
 Preprint
 
 [Unifying Generative Models with GFlowNets and Beyond](https://arxiv.org/abs/2209.02606)   
