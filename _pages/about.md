@@ -41,6 +41,9 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 -->
 
+[Stochastic Generative Flow Networks](https://arxiv.org/abs/2302.09465)  
+Ling Pan\*, *Dinghuai Zhang*\*, Moksh Jain, Longbo Huang, Yoshua Bengio.  
+
 [Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793)  
 *Dinghuai Zhang*\*, Ling Pan\*, Ricky T. Q. Chen, Aaron Courville, Yoshua Bengio.  
 Preprint
