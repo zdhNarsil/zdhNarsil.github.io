@@ -57,7 +57,7 @@ Preprint note
 *Dinghuai Zhang*, Aaron Courville, Yoshua Bengio, Qinqing Zheng, Amy Zhang, Ricky T. Q. Chen.  
 11th International Conference on Learning Representations (**ICLR 2023**)  
  
-[Predictive Inference with Feature Conformal Prediction](https://arxiv.org/abs/2210.00173)  
+[Predictive Inference with Feature Conformal Prediction](https://arxiv.org/abs/2210.00173) [[openreview](https://openreview.net/forum?id=0uRm1YmFTu)]    
 Jiaye Teng\*, Chuan Wen\*, *Dinghuai Zhang*\*, Yoshua Bengio, Yang Gao, Yang Yuan.  
 11th International Conference on Learning Representations (**ICLR 2023**)     
 
