@@ -100,6 +100,7 @@ Baifeng Shi\*, *Dinghuai Zhang*\*, Qi Dai, Zhanxing Zhu, Yadong Mu, Jingdong Wan
 ### Seminars
 These are some of the seminars I've co-organized / participated in.
 
+- [FAI Seminar](https://www.tengjiaye.com/seminar)
 - [Out-of-distribution Generalization Reading Group](https://sites.google.com/view/mila-ood-rg/)
 - [Deep Learning Seminar](http://tianyuanzhang.com/teaching/)
 - [Tools Seminar](https://github.com/pppppass/ToolsSeminar)
