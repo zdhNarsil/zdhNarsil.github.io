@@ -81,7 +81,7 @@ Jiaye Teng\*, Chuan Wen\*, *Dinghuai Zhang*\*, Yoshua Bengio, Yang Gao, Yang Yua
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 
 
-[Neural Approximate Sufficient Statistics for Implicit Models](https://arxiv.org/abs/2010.10079)  [[openreview](https://openreview.net/forum?id=SRDuJssQud)] [[poster](https://zdhNarsil.github.io/files/poster_nass_iclr2021.pdf)] [[slide](https://zdhNarsil.github.io/files/slides_nass.pdf)]  
+[Neural Approximate Sufficient Statistics for Implicit Models](https://arxiv.org/abs/2010.10079)  [[openreview](https://openreview.net/forum?id=SRDuJssQud)] [[poster](https://zdhNarsil.github.io/files/poster_nass_iclr2021.pdf)] [[slide](https://zdhNarsil.github.io/files/slides_nass.pdf)] [[Michael's slide](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar/pres.pdf)]    
 Yanzhi Chen\*, *Dinghuai Zhang*\*, Michael Gutmann, Aaron Courville, Zhanxing Zhu.  
 9th International Conference on Learning Representations (**ICLR 2021 spotlight**)
 
