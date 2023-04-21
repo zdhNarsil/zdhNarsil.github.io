@@ -20,7 +20,7 @@ If you are interested, feel free to contact me by [email](mailto:dinghuai.zhang@
  
 <span style="color:red"> [News] </span>
 We are going to have [an interesting workshop](https://spigmworkshop.github.io/) on structured probabilistic methods in [ICML @ Hawaii](https://icml.cc/) this summer! 
-Please consider contribute by [submitting](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM) and / or [reviewing](https://docs.google.com/forms/d/e/1FAIpQLSdFJq3qPKNKAatfn4iYeuFftVtY5ji3HwwRzVBz31jJIclPTA/viewform).
+Please consider contributing through [submitting](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM) and / or [reviewing](https://docs.google.com/forms/d/e/1FAIpQLSdFJq3qPKNKAatfn4iYeuFftVtY5ji3HwwRzVBz31jJIclPTA/viewform).
 
 **Research interests**
 * Probabilistic methods: inference, generative models, uncertainty modeling
