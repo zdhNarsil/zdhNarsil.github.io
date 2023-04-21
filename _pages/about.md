@@ -23,8 +23,9 @@ We are going to have [an interesting workshop](https://spigmworkshop.github.io/)
 Please consider contributing through [submitting](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM) and / or [reviewing](https://docs.google.com/forms/d/e/1FAIpQLSdFJq3qPKNKAatfn4iYeuFftVtY5ji3HwwRzVBz31jJIclPTA/viewform).
 
 **Research interests**
-* Probabilistic methods: inference, generative models, uncertainty modeling
 * Exploration with structure: RL, search, black-box optimization, active learning
+* Probabilistic methods: inference, generative models, uncertainty modeling
+* Scientific design & discovery as probabilistic inference
 
 I've also conducted AI safety research (distribution shift, causal representation learning).
 
