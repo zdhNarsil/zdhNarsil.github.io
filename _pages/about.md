@@ -18,7 +18,7 @@ Further, I am always happy to collaborate with junior (undergraduate / master) s
 Students from underrepresented groups are strongly encouraged to reach out!
 If you are interested, feel free to contact me by [email](mailto:dinghuai.zhang@mila.quebec), [facebook](https://www.facebook.com/zdhnarsil/), or [wechat](https://zdhNarsil.github.io/images/wechatqrcode.jpeg).
  
-<span style="color:red">some [News] text</span>
+<span style="color:red"> [News] </span>
 We are going to have an interesting [workshop](https://spigmworkshop.github.io/) on structured probabilistic methods in ICML @ Hawaii this summer! 
 Please consider contribute by [submitting](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM) and / or [reviewing](https://docs.google.com/forms/d/e/1FAIpQLSdFJq3qPKNKAatfn4iYeuFftVtY5ji3HwwRzVBz31jJIclPTA/viewform).
 
