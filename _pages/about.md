@@ -52,7 +52,7 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 Ling Pan\*, *Dinghuai Zhang*\*, Moksh Jain, Longbo Huang, Yoshua Bengio.  
 39th Conference on Uncertainty in Artificial Intelligence (**UAI 2023**) 
 
-[Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793)  
+[Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793) [[slide](https://zdhNarsil.github.io/files/slides_gfn_qm.pdf)]  
 *Dinghuai Zhang*\*, Ling Pan\*, Ricky T. Q. Chen, Aaron Courville, Yoshua Bengio.  
 Preprint
 
@@ -60,7 +60,7 @@ Preprint
 *Dinghuai Zhang*, Ricky T. Q. Chen, Nikolay Malkin, Yoshua Bengio.  
 Preprint note   
 
-[Latent State Marginalization as a Low-cost Approach for Improving Exploration](https://arxiv.org/abs/2210.00999) [[openreview](https://openreview.net/forum?id=b0UksKFcTOL)]  
+[Latent State Marginalization as a Low-cost Approach for Improving Exploration](https://arxiv.org/abs/2210.00999) [[openreview](https://openreview.net/forum?id=b0UksKFcTOL)] [[slide](https://zdhNarsil.github.io/files/slides_smac_lvp.pdf)]   
 *Dinghuai Zhang*, Aaron Courville, Yoshua Bengio, Qinqing Zheng, Amy Zhang, Ricky T. Q. Chen.  
 11th International Conference on Learning Representations (**ICLR 2023**)  
  
