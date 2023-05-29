@@ -48,6 +48,10 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 -->
 
+[Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets](http://arxiv.org/abs/2305.17010)   
+*Dinghuai Zhang*, Hanjun Dai, Nikolay Malkin, Aaron Courville, Yoshua Bengio, Ling Pan.  
+Preprint
+
 [Stochastic Generative Flow Networks](https://arxiv.org/abs/2302.09465)  
 Ling Pan\*, *Dinghuai Zhang*\*, Moksh Jain, Longbo Huang, Yoshua Bengio.  
 39th Conference on Uncertainty in Artificial Intelligence (**UAI 2023**) 
@@ -58,7 +62,7 @@ Preprint
 
 [Unifying Generative Models with GFlowNets and Beyond](https://arxiv.org/abs/2209.02606)   
 *Dinghuai Zhang*, Ricky T. Q. Chen, Nikolay Malkin, Yoshua Bengio.  
-Preprint note   
+Preprint   
 
 [Latent State Marginalization as a Low-cost Approach for Improving Exploration](https://arxiv.org/abs/2210.00999) [[openreview](https://openreview.net/forum?id=b0UksKFcTOL)] [[slide](https://zdhNarsil.github.io/files/slides_smac_lvp.pdf)]   
 *Dinghuai Zhang*, Aaron Courville, Yoshua Bengio, Qinqing Zheng, Amy Zhang, Ricky T. Q. Chen.  
