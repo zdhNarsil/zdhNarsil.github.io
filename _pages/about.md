@@ -118,7 +118,7 @@ These are some of the seminars I've co-organized / participated in.
 - [ML & CV Seminar](http://ml.2prime.cn/)
 
 ### Services
-Reviewer for JMLR<img src="https://zdhNarsil.github.io/files/I_review_JMLR.gif" width="50" height="50"/>, ICML, NeurIPS, ICLR, AISTATS, UAI, etc.
+Reviewer for JMLR<img src="https://zdhNarsil.github.io/files/I_review_JMLR.gif" width="50" height="50"/>, ICML, NeurIPS, ICLR, AISTATS, UAI, CLeaR, EMNLP.
 
 ## Miscs
 * I enjoy reading. I feel lucky to learn about wisdom from sociologists such as Georg Simmel, Norbert Elias, Max Weber, Sigmund Freud. I occasionally write some thoughts in Chinese at [douban](https://www.douban.com/people/161587233/).
