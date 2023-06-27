@@ -52,11 +52,11 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 *Dinghuai Zhang*, Hanjun Dai, Nikolay Malkin, Aaron Courville, Yoshua Bengio, Ling Pan.  
 Preprint
 
-[Stochastic Generative Flow Networks](https://arxiv.org/abs/2302.09465)  
+[Stochastic Generative Flow Networks](https://arxiv.org/abs/2302.09465) [[openreview](https://openreview.net/forum?id=U_MhWQ7vECt)]   
 Ling Pan\*, *Dinghuai Zhang*\*, Moksh Jain, Longbo Huang, Yoshua Bengio.  
 39th Conference on Uncertainty in Artificial Intelligence (**UAI 2023**) 
 
-[Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793) [[slide](https://zdhNarsil.github.io/files/slides_gfn_qm.pdf)]  
+[Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793) [[slides](https://zdhNarsil.github.io/files/slides_gfn_qm.pdf)]  
 *Dinghuai Zhang*\*, Ling Pan\*, Ricky T. Q. Chen, Aaron Courville, Yoshua Bengio.  
 Preprint
 
@@ -64,7 +64,7 @@ Preprint
 *Dinghuai Zhang*, Ricky T. Q. Chen, Nikolay Malkin, Yoshua Bengio.  
 Preprint   
 
-[Latent State Marginalization as a Low-cost Approach for Improving Exploration](https://arxiv.org/abs/2210.00999) [[openreview](https://openreview.net/forum?id=b0UksKFcTOL)] [[slide](https://zdhNarsil.github.io/files/slides_smac_lvp.pdf)]   
+[Latent State Marginalization as a Low-cost Approach for Improving Exploration](https://arxiv.org/abs/2210.00999) [[openreview](https://openreview.net/forum?id=b0UksKFcTOL)] [[slides](https://zdhNarsil.github.io/files/slides_smac_lvp.pdf)]   
 *Dinghuai Zhang*, Aaron Courville, Yoshua Bengio, Qinqing Zheng, Amy Zhang, Ricky T. Q. Chen.  
 11th International Conference on Learning Representations (**ICLR 2023**)  
  
@@ -72,36 +72,36 @@ Preprint
 Jiaye Teng\*, Chuan Wen\*, *Dinghuai Zhang*\*, Yoshua Bengio, Yang Gao, Yang Yuan.  
 11th International Conference on Learning Representations (**ICLR 2023**)     
 
-[Generative Flow Networks for Discrete Probabilistic Modeling](https://arxiv.org/abs/2202.01361) [[poster](https://zdhNarsil.github.io/files/poster_ICML2022_EB_GFlowNet.pdf)] [[slide](https://zdhNarsil.github.io/files/slides_EB_GFN.pdf)]       
+[Generative Flow Networks for Discrete Probabilistic Modeling](https://arxiv.org/abs/2202.01361) [[poster](https://zdhNarsil.github.io/files/poster_ICML2022_EB_GFlowNet.pdf)] [[slides](https://zdhNarsil.github.io/files/slides_EB_GFN.pdf)]       
 *Dinghuai Zhang*, Nikolay Malkin, Zhen Liu, Alexandra Volokhova, Aaron Courville, Yoshua Bengio.  
 39th International Conference on Machine Learning (**ICML 2022**)   
 
-[Building Robust Ensembles via Margin Boosting](http://arxiv.org/abs/2206.03362) [[poster](https://zdhNarsil.github.io/files/Poster - margin boosting.pdf)] [[slide](https://zdhNarsil.github.io/files/slides - Building Robust Ensembles via Margin Boosting.pdf)]       
+[Building Robust Ensembles via Margin Boosting](http://arxiv.org/abs/2206.03362) [[poster](https://zdhNarsil.github.io/files/Poster - margin boosting.pdf)] [[slides](https://zdhNarsil.github.io/files/slides - Building Robust Ensembles via Margin Boosting.pdf)]       
 *Dinghuai Zhang*, Hongyang Zhang, Aaron Courville, Yoshua Bengio, Pradeep Ravikumar, Arun Sai Suggala.  
 39th International Conference on Machine Learning (**ICML 2022**)
 
-[Unifying Likelihood-free Inference with Black-box Optimization and Beyond](http://arxiv.org/abs/2110.03372) [[openreview](https://openreview.net/forum?id=1HxTO6CTkz)] [[slide](https://zdhNarsil.github.io/files/slides_ICLR22_lfi_bbopt.pdf)]      
+[Unifying Likelihood-free Inference with Black-box Optimization and Beyond](http://arxiv.org/abs/2110.03372) [[openreview](https://openreview.net/forum?id=1HxTO6CTkz)] [[slides](https://zdhNarsil.github.io/files/slides_ICLR22_lfi_bbopt.pdf)]      
 *Dinghuai Zhang*, Jie Fu, Yoshua Bengio, Aaron Courville.  
 10th International Conference on Learning Representations (**ICLR 2022 spotlight**)
 
-[Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?](https://arxiv.org/abs/2106.02890)  [[poster](https://zdhNarsil.github.io/files/icml2021_invsubnet_poster.pdf)] [[slide](https://zdhNarsil.github.io/files/icml2021_invsubnet_slides.pdf)]   
+[Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?](https://arxiv.org/abs/2106.02890)  [[poster](https://zdhNarsil.github.io/files/icml2021_invsubnet_poster.pdf)] [[slides](https://zdhNarsil.github.io/files/icml2021_invsubnet_slides.pdf)]   
 *Dinghuai Zhang*, Kartik Ahuja, Yilun Xu, Yisen Wang, Aaron Courville.   
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 
 
-[Neural Approximate Sufficient Statistics for Implicit Models](https://arxiv.org/abs/2010.10079)  [[openreview](https://openreview.net/forum?id=SRDuJssQud)] [[poster](https://zdhNarsil.github.io/files/poster_nass_iclr2021.pdf)] [[slide](https://zdhNarsil.github.io/files/slides_nass.pdf)] [[Michael's slide](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar/pres.pdf)]    
+[Neural Approximate Sufficient Statistics for Implicit Models](https://arxiv.org/abs/2010.10079)  [[openreview](https://openreview.net/forum?id=SRDuJssQud)] [[poster](https://zdhNarsil.github.io/files/poster_nass_iclr2021.pdf)] [[slides](https://zdhNarsil.github.io/files/slides_nass.pdf)] [[Michael's slides](https://warwick.ac.uk/fac/sci/statistics/news/upcoming-seminars/abcworldseminar/pres.pdf)]    
 Yanzhi Chen\*, *Dinghuai Zhang*\*, Michael Gutmann, Aaron Courville, Zhanxing Zhu.  
 9th International Conference on Learning Representations (**ICLR 2021 spotlight**)
 
-[Black-Box Certification with Randomized Smoothing: A Functional Optimization Based Framework](https://arxiv.org/abs/2002.09169) [[poster](https://zdhNarsil.github.io/files/nips2020poster_certification.pdf)] [[slide](https://zdhNarsil.github.io/files/certification_slides.pdf)]     
+[Black-Box Certification with Randomized Smoothing: A Functional Optimization Based Framework](https://arxiv.org/abs/2002.09169) [[poster](https://zdhNarsil.github.io/files/nips2020poster_certification.pdf)] [[slides](https://zdhNarsil.github.io/files/certification_slides.pdf)]     
 *Dinghuai Zhang*\*, Mao Ye\*, Chengyue Gong\* , Zhanxing Zhu, Qiang Liu.         
 34th Conference on Neural Information Processing Systems (**NeurIPS 2020**)
 
-[Informative Dropout for Robust Representation Learning: A Shape-bias Perspective](https://arxiv.org/abs/2008.04254)  [[slide](https://zdhNarsil.github.io/files/infodrop_slides.pdf)] [[zhihu](https://zhuanlan.zhihu.com/p/197929813)]  
+[Informative Dropout for Robust Representation Learning: A Shape-bias Perspective](https://arxiv.org/abs/2008.04254)  [[slides](https://zdhNarsil.github.io/files/infodrop_slides.pdf)] [[zhihu](https://zhuanlan.zhihu.com/p/197929813)]  
 Baifeng Shi\*, *Dinghuai Zhang*\*, Qi Dai, Zhanxing Zhu, Yadong Mu, Jingdong Wang.      
 37th International Conference on Machine Learning (**ICML 2020**)
 
-[You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle](https://arxiv.org/abs/1905.00877) [[poster](https://zdhNarsil.github.io/files/YOPO_NeurIPS2019_Poster.pdf)] [[slide](https://zdhNarsil.github.io/files/YOPO_slides.pdf)] [[zhihu](https://zhuanlan.zhihu.com/p/68351267)]  
+[You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle](https://arxiv.org/abs/1905.00877) [[poster](https://zdhNarsil.github.io/files/YOPO_NeurIPS2019_Poster.pdf)] [[slides](https://zdhNarsil.github.io/files/YOPO_slides.pdf)] [[zhihu](https://zhuanlan.zhihu.com/p/68351267)]  
 *Dinghuai Zhang*\*, Tianyuan Zhang\*,Yiping Lu\*, Zhanxing Zhu, Bin Dong.      
 33rd Conference on Neural Information Processing Systems (**NeurIPS 2019**)
 
