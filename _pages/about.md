@@ -11,7 +11,7 @@ redirect_from:
 I am Dinghuai Zhang (张鼎怀), a PhD student at [Mila](https://mila.quebec/en/).
 I belong to Prof. [Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=zh-CN)'s group as well as [Aaron](https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en)'s Army (aka A.A.).
 During my PhD, I've interned at [FAIR](https://ai.facebook.com/) labs, honored to be mentored by Dr. [Tian Qi Chen](https://rtqichen.github.io/). 
-Previously, I was an undergraduate in School of Mathematical Sciences at Peking University, working with Prof. [Zhanxing Zhu](https://sites.google.com/view/zhanxingzhu/) and Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin). 
+Previously, I was an undergraduate in School of Mathematical Sciences at Peking University, working with Prof. [Zhanxing Zhu](https://scholar.google.co.uk/citations?user=a2sHceIAAAAJ&hl=en) and Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin). 
 
 I am open to possible cooperation or visiting opportunities. 
 Further, I am always happy to collaborate with junior (undergraduate / master) students, especially at Montreal.
