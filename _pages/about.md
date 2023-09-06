@@ -23,9 +23,9 @@ We are going to have [an interesting workshop](https://spigmworkshop.github.io/)
 ~~Please consider contributing through [submitting](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM) and / or [reviewing](https://docs.google.com/forms/d/e/1FAIpQLSdFJq3qPKNKAatfn4iYeuFftVtY5ji3HwwRzVBz31jJIclPTA/viewform)~~.
 
 **Research interests**
+* Scientific design & discovery as probabilistic inference
 * Exploration with structure: RL, search, black-box optimization, active learning
 * Probabilistic methods: inference, generative models, uncertainty modeling
-* Scientific design & discovery as probabilistic inference
 
 I've also conducted AI safety research (distribution shift, causal representation learning).
 
@@ -108,6 +108,8 @@ Baifeng Shi\*, *Dinghuai Zhang*\*, Qi Dai, Zhanxing Zhu, Yadong Mu, Jingdong Wan
 ( * denotes equal contribution)
 
 ## Activities
+
+<!--
 ### Seminars
 These are some of the seminars I've co-organized / participated in.
 
@@ -117,10 +119,12 @@ These are some of the seminars I've co-organized / participated in.
 - [Tools Seminar](https://github.com/pppppass/ToolsSeminar)
 - [ML & CV Seminar](http://ml.2prime.cn/)
 
+-->
+
 ### Services
 Reviewer for JMLR<img src="https://zdhNarsil.github.io/files/I_review_JMLR.gif" width="50" height="50"/>, ICML, NeurIPS, ICLR, AISTATS, UAI, CLeaR, EMNLP.
 
 ## Miscs
-* I enjoy reading. I feel lucky to learn about wisdom from sociologists such as Georg Simmel, Norbert Elias, Max Weber, Sigmund Freud. I occasionally write some thoughts (in Chinese) at [douban](https://www.douban.com/people/161587233/).
+* I enjoy reading. I feel lucky to learn about wisdom from sociologists such as Georg Simmel, Norbert Elias, Max Weber, Sigmund Freud. I occasionally write some thoughts at [douban](https://www.douban.com/people/161587233/).
 * I used to be a huge fan of Daido Moriyama and Henri Cartier-Bresson (street photography pioneers). 
 * I paint Chinese calligraphy well since a child.
