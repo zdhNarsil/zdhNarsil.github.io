@@ -24,8 +24,8 @@ We are going to have [an interesting workshop](https://spigmworkshop.github.io/)
 
 **Research interests**
 * Scientific design & discovery as probabilistic inference
-* Exploration with structure: RL, search, black-box optimization, active learning
 * Probabilistic methods: inference, generative models, uncertainty modeling
+* Exploration with structure: RL, search, black-box optimization, active learning
 
 I've also conducted AI safety research (distribution shift, causal representation learning).
 
