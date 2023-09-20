@@ -14,7 +14,7 @@ During my PhD, I've interned at [FAIR](https://ai.facebook.com/) labs.
 Previously, I was an undergraduate in School of Mathematical Sciences at Peking University, working with Prof. [Zhanxing Zhu](https://scholar.google.co.uk/citations?user=a2sHceIAAAAJ&hl=en) and Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin). 
 
 I am open to possible cooperation or visiting opportunities. 
-Further, I am always happy to collaborate with junior (undergraduate / master) students, especially at Montreal.
+Further, I am always happy to collaborate with junior (undergraduate / master / junior PhD) students.
 Students from underrepresented groups are strongly encouraged to reach out!
 If you are interested, feel free to contact me by [email](mailto:dinghuai.zhang@mila.quebec), [facebook](https://www.facebook.com/zdhnarsil/), or [wechat](https://zdhNarsil.github.io/images/wechatqrcode.jpeg).
  
