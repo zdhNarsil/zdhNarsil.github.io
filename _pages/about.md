@@ -50,11 +50,11 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 
 [Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets](http://arxiv.org/abs/2305.17010)   
 *Dinghuai Zhang*, Hanjun Dai, Nikolay Malkin, Aaron Courville, Yoshua Bengio, Ling Pan.  
-Preprint
+37th Conference on Neural Information Processing Systems (**NeurIPS 2023 spotlight**)
 
 [Stochastic Generative Flow Networks](https://arxiv.org/abs/2302.09465) [[openreview](https://openreview.net/forum?id=U_MhWQ7vECt)]   
 Ling Pan\*, *Dinghuai Zhang*\*, Moksh Jain, Longbo Huang, Yoshua Bengio.  
-39th Conference on Uncertainty in Artificial Intelligence (**UAI 2023**) 
+39th Conference on Uncertainty in Artificial Intelligence (**UAI 2023 spotlight**) 
 
 [Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793) [[slides](https://zdhNarsil.github.io/files/slides_gfn_qm.pdf)]  
 *Dinghuai Zhang*\*, Ling Pan\*, Ricky T. Q. Chen, Aaron Courville, Yoshua Bengio.  
