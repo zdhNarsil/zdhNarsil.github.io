@@ -62,7 +62,7 @@ Preprint
 
 [Unifying Generative Models with GFlowNets and Beyond](https://arxiv.org/abs/2209.02606)   
 *Dinghuai Zhang*, Ricky T. Q. Chen, Nikolay Malkin, Yoshua Bengio.  
-Preprint   
+ICML 2022 Beyond Bayes workshop.   
 
 [Latent State Marginalization as a Low-cost Approach for Improving Exploration](https://arxiv.org/abs/2210.00999) [[openreview](https://openreview.net/forum?id=b0UksKFcTOL)] [[slides](https://zdhNarsil.github.io/files/slides_smac_lvp.pdf)]   
 *Dinghuai Zhang*, Aaron Courville, Yoshua Bengio, Qinqing Zheng, Amy Zhang, Ricky T. Q. Chen.  
