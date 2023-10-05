@@ -48,6 +48,10 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 -->
 
+[Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679)  
+*Dinghuai Zhang*, Ricky Tian Qi Chen, Cheng-Hao Liu, Aaron Courville, Yoshua Bengio.  
+Arxiv
+
 [Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets](http://arxiv.org/abs/2305.17010)   
 *Dinghuai Zhang*, Hanjun Dai, Nikolay Malkin, Aaron Courville, Yoshua Bengio, Ling Pan.  
 37th Conference on Neural Information Processing Systems (**NeurIPS 2023 spotlight**)
@@ -57,15 +61,15 @@ Ling Pan\*, *Dinghuai Zhang*\*, Moksh Jain, Longbo Huang, Yoshua Bengio.
 39th Conference on Uncertainty in Artificial Intelligence (**UAI 2023 spotlight**) 
 
 [Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793) [[slides](https://zdhNarsil.github.io/files/slides_gfn_qm.pdf)]  
-*Dinghuai Zhang*\*, Ling Pan\*, Ricky T. Q. Chen, Aaron Courville, Yoshua Bengio.  
+*Dinghuai Zhang*\*, Ling Pan\*, Ricky Tian Qi Chen, Aaron Courville, Yoshua Bengio.  
 Preprint
 
 [Unifying Generative Models with GFlowNets and Beyond](https://arxiv.org/abs/2209.02606)   
-*Dinghuai Zhang*, Ricky T. Q. Chen, Nikolay Malkin, Yoshua Bengio.  
+*Dinghuai Zhang*, Ricky Tian Qi Chen, Nikolay Malkin, Yoshua Bengio.  
 ICML 2022 Beyond Bayes workshop.   
 
 [Latent State Marginalization as a Low-cost Approach for Improving Exploration](https://arxiv.org/abs/2210.00999) [[openreview](https://openreview.net/forum?id=b0UksKFcTOL)] [[slides](https://zdhNarsil.github.io/files/slides_smac_lvp.pdf)]   
-*Dinghuai Zhang*, Aaron Courville, Yoshua Bengio, Qinqing Zheng, Amy Zhang, Ricky T. Q. Chen.  
+*Dinghuai Zhang*, Aaron Courville, Yoshua Bengio, Qinqing Zheng, Amy Zhang, Ricky Tian Qi Chen.  
 11th International Conference on Learning Representations (**ICLR 2023**)  
  
 [Predictive Inference with Feature Conformal Prediction](https://arxiv.org/abs/2210.00173) [[openreview](https://openreview.net/forum?id=0uRm1YmFTu)] [[poster](https://zdhNarsil.github.io/files/poster-FCP.pdf)]    
