@@ -50,7 +50,7 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 
 [Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679)  
 *Dinghuai Zhang*, Ricky Tian Qi Chen, Cheng-Hao Liu, Aaron Courville, Yoshua Bengio.  
-Arxiv
+Preprint
 
 [Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets](http://arxiv.org/abs/2305.17010)   
 *Dinghuai Zhang*, Hanjun Dai, Nikolay Malkin, Aaron Courville, Yoshua Bengio, Ling Pan.  
