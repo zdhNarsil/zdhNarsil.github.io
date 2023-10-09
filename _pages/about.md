@@ -126,7 +126,7 @@ These are some of the seminars I've co-organized / participated in.
 -->
 
 ### Services
-Reviewer for JMLR<img src="https://zdhNarsil.github.io/files/I_review_JMLR.gif" width="50" height="50"/>, ICML, NeurIPS, ICLR, AISTATS, UAI, CLeaR, EMNLP.
+Reviewer for JMLR<img src="https://zdhNarsil.github.io/files/I_review_JMLR.gif" width="50" height="50"/>, TPAMI, ICML, NeurIPS, ICLR, AISTATS, UAI, CLeaR, EMNLP.
 
 ## Miscs
 * I enjoy reading. I feel lucky to learn about wisdom from sociologists such as Georg Simmel, Norbert Elias, Max Weber, Sigmund Freud. I occasionally write some thoughts at [douban](https://www.douban.com/people/161587233/).
