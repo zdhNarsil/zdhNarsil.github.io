@@ -24,7 +24,7 @@ We are going to have [an interesting workshop](https://spigmworkshop.github.io/)
 
 **Research interests**
 
-I aim to tackle multidisciplinary *scientific applications* with *generative models*.
+I aim to tackle multidisciplinary *scientific problems* with *generative models*.
 * Scientific design & discovery as probabilistic inference
 * Probabilistic methods: generative models, amortized inference, uncertainty modeling
 * Exploration with structure: RL, search, black-box optimization, active learning
