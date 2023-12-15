@@ -24,9 +24,9 @@ We are going to have [an interesting workshop](https://spigmworkshop.github.io/)
 
 **Research interests**
 
-I do research in *probabilistic machine learning*, with multidisciplinary *scientific applications*.
+I aim to tackle multidisciplinary *scientific applications* with *generative models*.
 * Scientific design & discovery as probabilistic inference
-* Probabilistic methods: inference, generative models, uncertainty modeling
+* Probabilistic methods: generative models, amortized inference, uncertainty modeling
 * Exploration with structure: RL, search, black-box optimization, active learning
 
 I've also conducted AI safety research (distribution shift, causal representation learning).
