@@ -57,7 +57,7 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 
 [Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679)  
 *Dinghuai Zhang*, Ricky Tian Qi Chen, Cheng-Hao Liu, Aaron Courville, Yoshua Bengio.  
-Preprint
+12th International Conference on Learning Representations (**ICLR 2024**)  
 
 [Let the Flows Tell: Solving Graph Combinatorial Optimization Problems with GFlowNets](http://arxiv.org/abs/2305.17010)   
 *Dinghuai Zhang*, Hanjun Dai, Nikolay Malkin, Aaron Courville, Yoshua Bengio, Ling Pan.  
@@ -69,7 +69,7 @@ Ling Pan\*, *Dinghuai Zhang*\*, Moksh Jain, Longbo Huang, Yoshua Bengio.
 
 [Distributional GFlowNets with Quantile Flows](https://arxiv.org/abs/2302.05793) [[slides](https://zdhNarsil.github.io/files/slides_gfn_qm.pdf)]  
 *Dinghuai Zhang*\*, Ling Pan\*, Ricky Tian Qi Chen, Aaron Courville, Yoshua Bengio.  
-Preprint
+Transactions on Machine Learning Research (**TMLR**)  
 
 [Unifying Generative Models with GFlowNets and Beyond](https://arxiv.org/abs/2209.02606)   
 *Dinghuai Zhang*, Ricky Tian Qi Chen, Nikolay Malkin, Yoshua Bengio.  
