@@ -139,3 +139,4 @@ Reviewer for JMLR<img src="https://zdhNarsil.github.io/files/I_review_JMLR.gif" 
 * I enjoy reading. I feel lucky to learn about wisdom from sociologists such as Georg Simmel, Norbert Elias, Max Weber, Sigmund Freud. I occasionally write some thoughts at [douban](https://www.douban.com/people/161587233/).
 * I used to be a huge fan of Daido Moriyama and Henri Cartier-Bresson (street photography pioneers). 
 * I paint Chinese calligraphy well since a child.
+* My Erdős number is [3](https://www.csauthors.net/distance/paul-erdos/dinghuai-zhang).
