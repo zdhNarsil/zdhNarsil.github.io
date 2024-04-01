@@ -21,8 +21,10 @@ Students from underrepresented groups are strongly encouraged to reach out!
 If you are interested, feel free to contact me by [email](mailto:dinghuai.zhang@mila.quebec), [facebook](https://www.facebook.com/zdhnarsil/), or [wechat](https://zdhNarsil.github.io/images/wechatqrcode.jpeg).
  
 <span style="color:red"> [News] </span>
-We have [an interesting workshop](https://spigmworkshop.github.io/) on structured generative modeling in [ICML @ Hawaii](https://icml.cc/) this summer! 
+We are going to have [an interesting workshop](https://https://spigmworkshop2024.github.io/) on structured generative modeling in [ICML 2024 @ Vienna](https://icml.cc/) this summer! 
+<!--
 ~~Please consider contributing through [submitting](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM) and / or [reviewing](https://docs.google.com/forms/d/e/1FAIpQLSdFJq3qPKNKAatfn4iYeuFftVtY5ji3HwwRzVBz31jJIclPTA/viewform)~~.
+-->
 
 **Research interests**
 
