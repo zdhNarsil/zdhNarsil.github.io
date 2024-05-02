@@ -138,7 +138,11 @@ These are some of the seminars I've co-organized / participated in.
 Reviewer for JMLR<img src="https://zdhNarsil.github.io/files/I_review_JMLR.gif" width="50" height="50"/>, TPAMI, ICML, NeurIPS, ICLR, AISTATS, UAI, CLeaR, EMNLP.
 
 ## Miscs
-* I enjoy reading. I feel lucky to learn about wisdom from sociologists such as Georg Simmel, Norbert Elias, Max Weber, Sigmund Freud. I occasionally write some thoughts at [douban](https://www.douban.com/people/161587233/).
+* I enjoy reading. I feel lucky to learn about wisdom from sociologists.
 * I used to be a huge fan of Daido Moriyama and Henri Cartier-Bresson (street photography pioneers). 
 * I paint Chinese calligraphy well since a child.
 * My Erdős number is [3](https://www.csauthors.net/distance/paul-erdos/dinghuai-zhang).
+
+<!--
+such as Georg Simmel, Norbert Elias, Max Weber, Sigmund Freud.
+-->
