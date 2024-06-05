@@ -55,12 +55,14 @@ Arxiv 2021.
 [Out-of-Distribution Generalization via Risk Extrapolation (REx)](https://arxiv.org/abs/2003.00688).  
 David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas, *Dinghuai Zhang*, Rémi Le Priol, Aaron Courville.   
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
+-->
+
+[Improving GFlowNets for Text-to-Image Diffusion Alignment](https://arxiv.org/abs/2406.00633)  
+*Dinghuai Zhang*, Yizhe Zhang, Jiatao Gu, Ruixiang Zhang, Josh Susskind, Navdeep Jaitly, Shuangfei Zhai  
 
 [Latent Energy-Based Odyssey: Black-Box Optimization via Expanded Exploration in the Energy-Based Latent Space](https://arxiv.org/abs/2405.16730)  
 Peiyu Yu*, *Dinghuai Zhang*\*, Hengzhi He\*, Xiaojian Ma, Ruiyao Miao, Yifan Lu, Yasi Zhang, Deqian Kong, Ruiqi Gao, Jianwen Xie, Guang Cheng, Ying Nian Wu  
 In submission  
--->
-
 
 [Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679)  
 *Dinghuai Zhang*, Ricky Tian Qi Chen, Cheng-Hao Liu, Aaron Courville, Yoshua Bengio.  
