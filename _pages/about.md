@@ -139,10 +139,14 @@ These are some of the seminars I've co-organized / participated in.
 - [Tools Seminar](https://github.com/pppppass/ToolsSeminar)
 - [ML & CV Seminar](http://ml.2prime.cn/)
 
+### Services
 -->
 
-### Services
-Reviewer for JMLR<img src="https://zdhNarsil.github.io/files/I_review_JMLR.gif" width="50" height="50"/>, TPAMI, ICML, NeurIPS, ICLR, AISTATS, UAI, CLeaR, EMNLP.
+### Workshop organizer
+Structured Probabilistic Inference & Generative Modeling (SPIGM) workshop at [ICML 2023](https://spigmworkshop.github.io/) and [ICML 2024](https://spigmworkshop2024.github.io/).
+
+### Reviewer
+JMLR<img src="https://zdhNarsil.github.io/files/I_review_JMLR.gif" width="50" height="50"/>, TPAMI, ICML, NeurIPS, ICLR, AISTATS, UAI, CLeaR, EMNLP.
 
 ## Miscs
 * I enjoy reading. I feel lucky to learn about wisdom from sociologists.
