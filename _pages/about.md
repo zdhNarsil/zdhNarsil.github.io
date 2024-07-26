@@ -58,7 +58,8 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 -->
 
 [Improving GFlowNets for Text-to-Image Diffusion Alignment](https://arxiv.org/abs/2406.00633)  
-*Dinghuai Zhang*, Yizhe Zhang, Jiatao Gu, Ruixiang Zhang, Josh Susskind, Navdeep Jaitly, Shuangfei Zhai  
+*Dinghuai Zhang*, Yizhe Zhang, Jiatao Gu, Ruixiang Zhang, Josh Susskind, Navdeep Jaitly, Shuangfei Zhai   
+In submission  
 
 [Latent Energy-Based Odyssey: Black-Box Optimization via Expanded Exploration in the Energy-Based Latent Space](https://arxiv.org/abs/2405.16730)  
 Peiyu Yu\*, *Dinghuai Zhang*\*, Hengzhi He\*, Xiaojian Ma, Ruiyao Miao, Yifan Lu, Yasi Zhang, Deqian Kong, Ruiqi Gao, Jianwen Xie, Guang Cheng, Ying Nian Wu  
@@ -142,7 +143,7 @@ These are some of the seminars I've co-organized / participated in.
 ### Services
 -->
 
-### Workshop organizer
+### Organizer
 Structured Probabilistic Inference & Generative Modeling (SPIGM) workshop at [ICML 2023](https://spigmworkshop.github.io/) and [ICML 2024](https://spigmworkshop2024.github.io/).
 
 ### Reviewer
