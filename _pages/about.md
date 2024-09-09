@@ -57,7 +57,7 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 -->
 
-[Improving GFlowNets for Text-to-Image Diffusion Alignment](https://arxiv.org/abs/2406.00633)  
+[Improving GFlowNets for Text-to-Image Diffusion Alignment](https://arxiv.org/abs/2406.00633)  [[code](https://github.com/apple/ml-diffusion-alignment-gflownet)]  
 *Dinghuai Zhang*, Yizhe Zhang, Jiatao Gu, Ruixiang Zhang, Josh Susskind, Navdeep Jaitly, Shuangfei Zhai   
 In submission  
 
