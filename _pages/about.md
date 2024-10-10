@@ -21,7 +21,7 @@ Students from underrepresented groups are strongly encouraged to reach out!
 If you are interested, feel free to contact me by [email](mailto:dinghuai.zhang@mila.quebec), [facebook](https://www.facebook.com/zdhnarsil/), or [wechat](https://zdhNarsil.github.io/images/wechatqrcode.jpeg).
  
 <span style="color:red"> [News] </span>
-We are going to have [an interesting workshop](https://spigmworkshop2024.github.io/) (again!) on structured generative modeling in [ICML 2024 @ Vienna](https://icml.cc/) this summer! 
+We are going to have [an interesting workshop](https://safegenaiworkshop.github.io/) on safety in [NeurIPS 2024 @ Vancouver](https://nips.cc/) this winter! 
 <!--
 ~~Please consider contributing through [submitting](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM) and / or [reviewing](https://docs.google.com/forms/d/e/1FAIpQLSdFJq3qPKNKAatfn4iYeuFftVtY5ji3HwwRzVBz31jJIclPTA/viewform)~~.
 -->
@@ -144,7 +144,9 @@ These are some of the seminars I've co-organized / participated in.
 -->
 
 ### Organizer
-Structured Probabilistic Inference & Generative Modeling (SPIGM) workshop at [ICML 2023](https://spigmworkshop.github.io/) and [ICML 2024](https://spigmworkshop2024.github.io/).
+
+* Safe Generative AI Workshop at [NeurIPS 2024](https://safegenaiworkshop.github.io/).  
+* Structured Probabilistic Inference & Generative Modeling (SPIGM) workshop at [ICML 2023](https://spigmworkshop.github.io/) and [ICML 2024](https://spigmworkshop2024.github.io/).
 
 ### Reviewer
 JMLR<img src="https://zdhNarsil.github.io/files/I_review_JMLR.gif" width="50" height="50"/>, TPAMI, ICML, NeurIPS, ICLR, AISTATS, UAI, CLeaR, EMNLP.
