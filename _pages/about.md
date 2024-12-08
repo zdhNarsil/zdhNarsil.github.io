@@ -14,7 +14,7 @@ Previously, I was an undergraduate in School of Mathematical Sciences at Peking 
 ...
 -->
 
-I am always open to possible research cooperation and to collaborate with junior students.
+I am always open to possible discussion and research collaboration with junior students.
 Students from underrepresented groups are strongly encouraged to reach out!
 If you are interested, feel free to contact me by [email](mailto:dinghuai233@gmail.com), [facebook](https://www.facebook.com/zdhnarsil/), or [wechat](https://zdhNarsil.github.io/images/wechatqrcode.jpeg).
  
