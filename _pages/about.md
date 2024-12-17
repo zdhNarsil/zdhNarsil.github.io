@@ -18,9 +18,11 @@ I am always open to possible discussion and research collaboration with junior s
 Students from underrepresented groups are strongly encouraged to reach out!
 If you are interested, feel free to contact me by [email](mailto:dinghuai233@gmail.com), [facebook](https://www.facebook.com/zdhnarsil/), or [wechat](https://zdhNarsil.github.io/images/wechatqrcode.jpeg).
  
+
+<!--
 <span style="color:red"> [News] </span>
 We are going to have [an interesting workshop](https://safegenaiworkshop.github.io/) on safety in [NeurIPS 2024 @ Vancouver](https://nips.cc/) this winter! 
-<!--
+
 ~~Please consider contributing through [submitting](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM) and / or [reviewing](https://docs.google.com/forms/d/e/1FAIpQLSdFJq3qPKNKAatfn4iYeuFftVtY5ji3HwwRzVBz31jJIclPTA/viewform)~~.
 -->
 
