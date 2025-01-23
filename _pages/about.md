@@ -59,7 +59,7 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 
 [Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets](https://arxiv.org/abs/2412.07775) [[project page](https://nabla-gfn.github.io/)]    
 Zhen Liu, Tim Zhenzhong Xiao\*, Weiyang Liu\*, Yoshua Bengio, *Dinghuai Zhang*   
-In submission  
+ICLR 2025    
 
 [Improving GFlowNets for Text-to-Image Diffusion Alignment](https://arxiv.org/abs/2406.00633)  [[code](https://github.com/apple/ml-diffusion-alignment-gflownet)]  
 *Dinghuai Zhang*, Yizhe Zhang, Jiatao Gu, Ruixiang Zhang, Josh Susskind, Navdeep Jaitly, Shuangfei Zhai   
