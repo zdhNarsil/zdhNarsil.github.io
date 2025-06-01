@@ -28,8 +28,8 @@ We are going to have [an interesting workshop](https://safegenaiworkshop.github.
 
 **Research interests**
 
-I aim to tackle multidisciplinary problems with multimodal **generative models**.
-* Probabilistic methods: generative models, amortized inference, uncertainty modeling
+I aim to tackle multidisciplinary problems with **generative models** and probabilistic methods.
+* Multimodal modeling: tokenization, sequence modeling (autoregression & diffusion), etc
 * Exploration with structure: RL, search, black-box optimization, active learning
 * Scientific design & discovery as probabilistic inference
 
