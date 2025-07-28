@@ -148,8 +148,8 @@ These are some of the seminars I've co-organized / participated in.
 -->
 
 ### Organizer
-* MSR New England Generative Modeling & Sampling Seminar [link](https://sites.google.com/view/msrne-genai-sampling-seminar/home).
-* Safe Generative AI Workshop at [NeurIPS 2024](https://safegenaiworkshop.github.io/).  
+* MSR New England Generative Modeling & Sampling Seminar ([link](https://sites.google.com/view/msrne-genai-sampling-seminar/home).
+* Safe Generative AI Workshop at [NeurIPS 2024](https://safegenaiworkshop.github.io/)).  
 * Structured Probabilistic Inference & Generative Modeling (SPIGM) workshop at [ICML 2023](https://spigmworkshop.github.io/), [ICML 2024](https://spigmworkshop2024.github.io/), and [NeurIPS 2025](https://spigmworkshopv3.github.io/).
 
 ### Reviewer
