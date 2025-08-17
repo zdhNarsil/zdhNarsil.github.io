@@ -57,9 +57,10 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 -->
 
-[FlashRL: 8Bit Rollouts, Full Power RL](https://fengyao.notion.site/flash-rl); [Your Efficient RL Framework Secretly Brings You Off-Policy RL Training](https://fengyao.notion.site/off-policy-rl);   
+[FlashRL: 8Bit Rollouts, Full Power RL](https://fengyao.notion.site/flash-rl)   
+[Your Efficient RL Framework Secretly Brings You Off-Policy RL Training](https://fengyao.notion.site/off-policy-rl)    
 Feng Yao\*, Liyuan Liu\*, *Dinghuai Zhang*, Chengyu Dong, Jingbo Shang, Jianfeng Gao    
-Blogs on addressing off-policy mismatch (from vLLM serving \& rollout quantization) in modern LLM+RL systems
+Blogs on addressing off-policy mismatch (from vLLM serving & rollout quantization) in modern LLM+RL systems
 
 [Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets](https://arxiv.org/abs/2412.07775) [[project page](https://nabla-gfn.github.io/)]    
 Zhen Liu, Tim Zhenzhong Xiao\*, Weiyang Liu\*, Yoshua Bengio, *Dinghuai Zhang*   
