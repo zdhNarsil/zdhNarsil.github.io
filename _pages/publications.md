@@ -1,7 +1,7 @@
 ---
 # layout: archive
 permalink: /pages/publications/
-# title: "Publications & Blogs"
+title: ""
 author_profile: true
 ---
 
