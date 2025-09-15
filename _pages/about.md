@@ -66,7 +66,7 @@ These are some of the seminars I've co-organized / participated in.
 * Structured Probabilistic Inference & Generative Modeling (SPIGM) workshop at [ICML 2023](https://spigmworkshop.github.io/), [ICML 2024](https://spigmworkshop2024.github.io/), and [NeurIPS 2025](https://spigmworkshopv3.github.io/).
 * FAI seminar ([link](https://www.fai-seminar.ac.cn/)).
 
-### Services 
+### Services\ 
 Area Chair of ICLR.   
 Reviewer of JMLR<img src="https://zdhNarsil.github.io/files/I_review_JMLR.gif" width="50" height="50"/>, TPAMI, ICML, NeurIPS, ICLR, AISTATS, UAI, CLeaR, EMNLP.
 
