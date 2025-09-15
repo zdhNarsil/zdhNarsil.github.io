@@ -1,6 +1,6 @@
 ---
 permalink: /pages/slidenotes/
-title: "Slides & Notes"
+title: ""
 author_profile: true
 redirect_from: 
   - /md/
