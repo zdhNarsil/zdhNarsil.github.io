@@ -13,7 +13,7 @@ I maintain a resource list for GFlowNets [here](https://github.com/zdhNarsil/Awe
 
 ~~I maintain a (possibly outdated) paper list for out-of-distribution generalization [here](https://sites.google.com/site/irinarish/ood_generalization) (thanks for Irina's help!).~~
 
-## Talk Slides
+# Talk Slides
 * At the intersection of probabilistic
 inference and exploration methods: [link](https://zdhNarsil.github.io/files/slides_dinghuai_research 2022.12.pdf)
 * Review of counterfactual representation learning: [link](https://zdhNarsil.github.io/files/treatment_effect.pdf)
@@ -27,7 +27,7 @@ inference and exploration methods: [link](https://zdhNarsil.github.io/files/slid
 * Review of normalizing flows: [link](https://zdhNarsil.github.io/files/Normalizing%20Flows.pptx)
 * Review of capsule networks: [link](https://zdhNarsil.github.io/files/A Brief Introduction to Capsule.pptx)
 
-## Notes
+# Notes
 * Bayesian optimal experimental design: [link](https://zdhNarsil.github.io/files/Experimental Design.pdf)
 * Kernelized Wasserstein gradient flow: [link](https://zdhNarsil.github.io/files/Kernelized%20Wasserstein%20Gradient%20Flow.pdf)
 * Conformal inference basics: [link](https://zdhNarsil.github.io/files/conformal_inference_basics.pdf)

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Dinghuai Zhang (张鼎怀), a senior researcher at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) (since lots of people asked... New England is in US, not in England!). I have received my PhD training at [Mila](https://mila.quebec/en/) in Prof. [Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=zh-CN)'s group as well as [Aaron](https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en)'s Army (aka A.A.). During my PhD, I've interned at Apple [MLR](https://machinelearning.apple.com/) and [FAIR](https://ai.facebook.com/) labs.
+I am Dinghuai Zhang (张鼎怀), a senior researcher at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) (*since lots of people asked... New England is in US, not in England!*). I have received my PhD training at [Mila](https://mila.quebec/en/) in Prof. [Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=zh-CN)'s group as well as [Aaron](https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en)'s Army (aka A.A.). During my PhD, I've interned at Apple [MLR](https://machinelearning.apple.com/) and [FAIR](https://ai.facebook.com/) labs.
 Previously, I was an undergraduate in School of Mathematical Sciences at Peking University, working with Prof. [Zhanxing Zhu](https://scholar.google.co.uk/citations?user=a2sHceIAAAAJ&hl=en) and Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin). 
 <!--
 ...
@@ -66,7 +66,7 @@ These are some of the seminars I've co-organized / participated in.
 * Structured Probabilistic Inference & Generative Modeling (SPIGM) workshop at [ICML 2023](https://spigmworkshop.github.io/), [ICML 2024](https://spigmworkshop2024.github.io/), and [NeurIPS 2025](https://spigmworkshopv3.github.io/).
 * FAI seminar ([link](https://www.fai-seminar.ac.cn/)).
 
-### Services\ 
+### Services
 Area Chair of ICLR.   
 Reviewer of JMLR<img src="https://zdhNarsil.github.io/files/I_review_JMLR.gif" width="50" height="50"/>, TPAMI, ICML, NeurIPS, ICLR, AISTATS, UAI, CLeaR, EMNLP.
 
