@@ -26,11 +26,11 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 
 [Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets](https://arxiv.org/abs/2412.07775) [[project page](https://nabla-gfn.github.io/)]    
 Zhen Liu, Tim Zhenzhong Xiao\*, Weiyang Liu\*, Yoshua Bengio, *Dinghuai Zhang*   
-ICLR 2025    
+**ICLR 2025**    
 
 [Improving GFlowNets for Text-to-Image Diffusion Alignment](https://arxiv.org/abs/2406.00633)  [[code](https://github.com/apple/ml-diffusion-alignment-gflownet)]  
 *Dinghuai Zhang*, Yizhe Zhang, Jiatao Gu, Ruixiang Zhang, Josh Susskind, Navdeep Jaitly, Shuangfei Zhai   
-TMLR 2024  
+**TMLR 2024**  
 
 [Latent Energy-Based Odyssey: Black-Box Optimization via Expanded Exploration in the Energy-Based Latent Space](https://arxiv.org/abs/2405.16730)  
 Peiyu Yu\*, *Dinghuai Zhang*\*, Hengzhi He\*, Xiaojian Ma, Ruiyao Miao, Yifan Lu, Yasi Zhang, Deqian Kong, Ruiqi Gao, Jianwen Xie, Guang Cheng, Ying Nian Wu  
