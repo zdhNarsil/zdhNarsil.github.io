@@ -23,6 +23,13 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 38th International Conference on Machine Learning (**ICML 2021 long talk**)
 -->
 
+[Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner](https://arxiv.org/abs/2510.03206)  
+Cai Zhou, Chenxiao Yang, Yi Hu, Chenyu Wang, Chubin Zhang, Muhan Zhang, Lester Mackey, Tommi Jaakkola, Stephen Bates, *Dinghuai Zhang*   
+In submission  
+
+[Next Semantic Scale Prediction via Hierarchical Diffusion Language Models]()  
+Cai Zhou*, Chenyu Wang*, *Dinghuai Zhang**, Shangyuan Tong, Yifei Wang, Stephen Bates, Tommi Jaakkola  
+**NeurIPS 2025**  
 
 [Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets](https://arxiv.org/abs/2412.07775) [[project page](https://nabla-gfn.github.io/)]    
 Zhen Liu, Tim Zhenzhong Xiao\*, Weiyang Liu\*, Yoshua Bengio, *Dinghuai Zhang*   
