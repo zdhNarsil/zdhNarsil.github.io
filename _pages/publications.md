@@ -11,6 +11,9 @@ author_profile: true
 Feng Yao\*, Liyuan Liu\*, *Dinghuai Zhang*, Chengyu Dong, Jingbo Shang, Jianfeng Gao    
 Blogs on addressing off-policy mismatch (from vLLM serving & rollout quantization) in modern LLM+RL systems
 
+[Towards 131k-Context dLLMs](https://albertge.notion.site/longdllm)  
+Albert Ge, Chandan Singh, *Dinghuai Zhang*,     Letian Peng, Yufan Zhuang, Ning Shang, Li Lyna Zhang,    Liyuan Liu,     Jianfeng Gao
+
 
 # Publications
 <!--
