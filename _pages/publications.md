@@ -31,7 +31,7 @@ Cai Zhou, Chenxiao Yang, Yi Hu, Chenyu Wang, Chubin Zhang, Muhan Zhang, Lester M
 In submission  
 
 [Next Semantic Scale Prediction via Hierarchical Diffusion Language Models]()  
-Cai Zhou*, Chenyu Wang*, *Dinghuai Zhang**, Shangyuan Tong, Yifei Wang, Stephen Bates, Tommi Jaakkola     
+Cai Zhou*, Chenyu Wang*, *Dinghuai Zhang*, Shangyuan Tong, Yifei Wang, Stephen Bates, Tommi Jaakkola     
 **NeurIPS 2025**  
 
 [Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets](https://arxiv.org/abs/2412.07775) [[project page](https://nabla-gfn.github.io/)]    
