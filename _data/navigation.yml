@@ -3,7 +3,8 @@ main:
   - title: "Publications"
     url: /pages/publications/
 
-  - title: "Talks & Notes"
+  # - title: "Talks & Notes"
+  - title: "Miscellaneous"
     url: /pages/slidenotes/
 
 #  - title: "Talks"
