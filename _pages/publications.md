@@ -21,6 +21,10 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 Cai Zhou, Chenxiao Yang, Yi Hu, Chenyu Wang, Chubin Zhang, Muhan Zhang, Lester Mackey, Tommi Jaakkola, Stephen Bates, *Dinghuai Zhang*   
 In submission  
 
+[Value Gradient Guidance for Flow Matching Alignment](https://openreview.net/forum?id=6MmOy2Ji8V)  
+Zhen Liu, Tim Z. Xiao\*, Carles Domingo-Enrich\*, Weiyang Liu, *Dinghuai Zhang*  
+**NeurIPS 2025**  
+
 [Next Semantic Scale Prediction via Hierarchical Diffusion Language Models](https://arxiv.org/abs/2510.08632)  
 Cai Zhou\*, Chenyu Wang\*, *Dinghuai Zhang*\*, Shangyuan Tong, Yifei Wang, Stephen Bates, Tommi Jaakkola     
 **NeurIPS 2025**  
