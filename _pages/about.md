@@ -33,7 +33,7 @@ I aim to tackle multidisciplinary problems with **generative models** and probab
 * Exploration with structure: RL, search, black-box optimization, active learning
 * Scientific design & discovery as probabilistic inference
 
-I've also conducted AI safety research (distribution shift, causal representation learning).
+I've also conducted AI safety research (distribution shift, causal representation learning) before.
 <!--
 ...
 -->
