@@ -67,7 +67,7 @@ These are some of the seminars I've co-organized / participated in.
 * FAI seminar ([link](https://www.fai-seminar.ac.cn/)).
 
 ### Services
-Area Chair of ICLR and ICML.
+Area Chair of ICLR and ICML.  
 Reviewer of JMLR<img src="https://zdhNarsil.github.io/files/I_review_JMLR.gif" width="50" height="50"/>, TPAMI, ICML, NeurIPS, ICLR, AISTATS, UAI, CLeaR, EMNLP.
 
 ## Miscs
