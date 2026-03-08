@@ -29,11 +29,11 @@ We are going to have [an interesting workshop](https://safegenaiworkshop.github.
 **Research interests**
 
 I aim to tackle multidisciplinary problems with **generative models** and probabilistic methods.
-* Multimodal modeling: tokenization, sequence modeling (autoregression & diffusion), etc
-* Exploration with structure: RL, search, black-box optimization, active learning
-* Scientific design & discovery as probabilistic inference
+* Stability and efficiency of large language model RL
+* Exploration with structure in RL, black-box optimization, search
+* Multimodal generative modeling
 
-I've also conducted AI safety research (distribution shift, causal representation learning) before.
+I've also conducted probabilistic inference (sampling, scientific discovery) and AI safety research (distribution shift, causal representation learning) before.
 <!--
 ...
 -->
