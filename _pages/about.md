@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am Dinghuai Zhang (张鼎怀), a senior researcher at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) (*since lots of people asked... New England is in US, not in England!*). I have received my PhD training at [Mila](https://mila.quebec/en/) in Prof. [Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=zh-CN)'s group as well as [Aaron](https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en)'s Army (aka A.A.). During my PhD, I've interned at Apple [MLR](https://machinelearning.apple.com/) and [FAIR](https://ai.facebook.com/) labs.
+I am Dinghuai Zhang (张鼎怀), working on reasoning & coding RL at xAI. 
+Before that, I was a senior researcher at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
+I obtained my PhD at [Mila](https://mila.quebec/en/) in Prof. [Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=zh-CN)'s group as well as [Aaron](https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en)'s Army (aka A.A.). During my PhD, I've interned at Apple [MLR](https://machinelearning.apple.com/) and [FAIR](https://ai.facebook.com/) labs.
 Previously, I was an undergraduate in School of Mathematical Sciences at Peking University, working with Prof. [Zhanxing Zhu](https://scholar.google.co.uk/citations?user=a2sHceIAAAAJ&hl=en) and Prof. [Bin Dong](http://bicmr.pku.edu.cn/~dongbin). 
 <!--
-...
--->
+(*since lots of people asked... New England is in US, not in England!*). 
 
 I am always open to possible discussion and research collaboration with junior students.
 Students from underrepresented groups are strongly encouraged to reach out!
 If you are interested, feel free to contact me by [email](mailto:dinghuai233@gmail.com), [facebook](https://www.facebook.com/zdhnarsil/), or [wechat](https://zdhNarsil.github.io/images/wechatqrcode.jpeg).
- 
+ -->
 
 <!--
 <span style="color:red"> [News] </span>
@@ -25,8 +26,8 @@ We are going to have [an interesting workshop](https://safegenaiworkshop.github.
 
 ~~Please consider contributing through [submitting](https://openreview.net/group?id=ICML.cc/2023/Workshop/SPIGM) and / or [reviewing](https://docs.google.com/forms/d/e/1FAIpQLSdFJq3qPKNKAatfn4iYeuFftVtY5ji3HwwRzVBz31jJIclPTA/viewform)~~.
 -->
-
-**Research interests**
+----
+**Research interests** (back when at academia)
 
 I aim to tackle multidisciplinary problems with **generative models** and probabilistic methods.
 * Stability and efficiency of large language model RL
