@@ -19,7 +19,7 @@ David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas
 
 [Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner](https://arxiv.org/abs/2510.03206)  
 Cai Zhou, Chenxiao Yang, Yi Hu, Chenyu Wang, Chubin Zhang, Muhan Zhang, Lester Mackey, Tommi Jaakkola, Stephen Bates, *Dinghuai Zhang*   
-In submission  
+**ICML 2026** 
 
 [Value Gradient Guidance for Flow Matching Alignment](https://openreview.net/forum?id=6MmOy2Ji8V)  
 Zhen Liu, Tim Z. Xiao\*, Carles Domingo-Enrich\*, Weiyang Liu, *Dinghuai Zhang*  
@@ -37,9 +37,9 @@ Zhen Liu, Tim Zhenzhong Xiao\*, Weiyang Liu\*, Yoshua Bengio, *Dinghuai Zhang*
 *Dinghuai Zhang*, Yizhe Zhang, Jiatao Gu, Ruixiang Zhang, Josh Susskind, Navdeep Jaitly, Shuangfei Zhai   
 **TMLR 2024**  
 
-[Latent Energy-Based Odyssey: Black-Box Optimization via Expanded Exploration in the Energy-Based Latent Space](https://arxiv.org/abs/2405.16730)  
+["Noisier" Noise Contrastive Eestimation is (Almost) Maximum Likelihood](https://arxiv.org/abs/2405.16730)  
 Peiyu Yu\*, *Dinghuai Zhang*\*, Hengzhi He\*, Xiaojian Ma, Ruiyao Miao, Yifan Lu, Yasi Zhang, Deqian Kong, Ruiqi Gao, Jianwen Xie, Guang Cheng, Ying Nian Wu  
-In submission  
+**ICLR 2026**    
 
 [Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679)  
 *Dinghuai Zhang*, Ricky Tian Qi Chen, Cheng-Hao Liu, Aaron Courville, Yoshua Bengio.  
