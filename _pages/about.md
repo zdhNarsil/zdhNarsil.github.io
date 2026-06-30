@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Dinghuai Zhang (张鼎怀), working on reasoning & coding RL bigrun at xAI. 
+I am Dinghuai Zhang (张鼎怀), working on reasoning & coding [RL](https://how.rl.works/) bigrun at xAI. 
 
 Before that, I was a senior researcher at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
 I obtained my PhD at [Mila](https://mila.quebec/en/) in Prof. [Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=zh-CN)'s group as well as [Aaron](https://scholar.google.com/citations?user=km6CP8cAAAAJ&hl=en)'s Army (aka A.A.). During my PhD, I've interned at Apple [MLR](https://machinelearning.apple.com/) and [FAIR](https://ai.facebook.com/) labs.
